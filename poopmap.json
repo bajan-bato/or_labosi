@@ -1,0 +1,5834 @@
+[
+  {
+    "id": 1707008,
+    "username": "Ms. Nurse Poopy",
+    "poopsCount": 2486,
+    "pinColor": "#8000ff",
+    "createdAt": "2021-02-21T16:58:26.505Z",
+    "poops": [
+      {
+        "id": 252906840,
+        "createdAt": "2026-11-01T20:47:00.000Z",
+        "latitude": 38.90650002624098,
+        "longitude": -94.69131767749785,
+        "isAirplane": 0,
+        "note": "remnants",
+        "pinColor": "#8000ff",
+        "place": "home",
+        "raing": 3,
+        "userId": 1707008
+      },
+      {
+        "id": 252906748,
+        "createdAt": "2026-11-01T19:16:00.000Z",
+        "latitude": 38.90641549379307,
+        "longitude": -94.69118423759937,
+        "isAirplane": 0,
+        "note": "yucky",
+        "pinColor": "#8000ff",
+        "place": "home",
+        "raing": 3,
+        "userId": 1707008
+      },
+      {
+        "id": 252906649,
+        "createdAt": "2026-11-03T16:16:01.828Z",
+        "latitude": 39.05690866817408,
+        "longitude": -94.60869323462248,
+        "isAirplane": 0,
+        "note": "werk terd",
+        "pinColor": "#8000ff",
+        "place": "werk",
+        "raing": 4,
+        "userId": 1707008
+      }
+    ]
+  },
+  {
+    "id": 4187138,
+    "username": "ozcho",
+    "poopsCount": 985,
+    "pinColor": "#ff7600",
+    "createdAt": "2021-08-26T08:38:12.835Z",
+    "poops": [
+      {
+        "id": 252904088,
+        "createdAt": "2026-11-03T15:48:07.142Z",
+        "latitude": 37.18205049652883,
+        "longitude": -3.612819872796536,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff7600",
+        "place": "",
+        "raing": null,
+        "userId": 4187138
+      }
+    ]
+  },
+  {
+    "id": 2294275,
+    "username": "mr_poopy_butthole_*",
+    "poopsCount": 1510,
+    "pinColor": "#cfff00",
+    "createdAt": "2021-02-27T19:53:46.250Z",
+    "poops": [
+      {
+        "id": 252914682,
+        "createdAt": "2026-11-03T17:53:51.833Z",
+        "latitude": 44.90834891613808,
+        "longitude": -93.15002918243408,
+        "isAirplane": 0,
+        "note": "super upset",
+        "pinColor": "#cfff00",
+        "place": "work",
+        "raing": 1,
+        "userId": 2294275
+      }
+    ]
+  },
+  {
+    "id": 4599300,
+    "username": "Lord of the Rims.",
+    "poopsCount": 1080,
+    "pinColor": "#00ff6a",
+    "createdAt": "2022-01-13T23:19:30.887Z",
+    "poops": [
+      {
+        "id": 252913477,
+        "createdAt": "2026-11-03T17:37:47.690Z",
+        "latitude": 44.93481785849757,
+        "longitude": -91.89995784312487,
+        "isAirplane": 0,
+        "note": "Tiny",
+        "pinColor": "#00ff6a",
+        "place": "upstairs",
+        "raing": 1,
+        "userId": 4599300
+      }
+    ]
+  },
+  {
+    "id": 5070341,
+    "username": "greychelt",
+    "poopsCount": 1028,
+    "pinColor": "#ff7100",
+    "createdAt": "2022-11-27T20:00:22.334Z",
+    "poops": [
+      {
+        "id": 252915965,
+        "createdAt": "2026-11-03T18:09:01.446Z",
+        "latitude": 51.92689081411899,
+        "longitude": -2.041797749698162,
+        "isAirplane": 0,
+        "note": "four coffees and a big burger and this came shooting out",
+        "pinColor": "#ff7100",
+        "place": "",
+        "raing": 2,
+        "userId": 5070341
+      }
+    ]
+  },
+  {
+    "id": 5096966,
+    "username": "skyelieen",
+    "poopsCount": 1537,
+    "pinColor": "#5900ff",
+    "createdAt": "2022-12-14T00:09:26.123Z",
+    "poops": [
+      {
+        "id": 252912029,
+        "createdAt": "2026-11-03T17:16:14.905Z",
+        "latitude": 40.7203725810099,
+        "longitude": -89.63595617562534,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#5900ff",
+        "place": "",
+        "raing": 3,
+        "userId": 5096966
+      }
+    ]
+  },
+  {
+    "id": 7358993,
+    "username": "Sophiakkproute",
+    "poopsCount": 58,
+    "pinColor": "#d81b60",
+    "createdAt": "2026-09-24T10:55:57.798Z",
+    "poops": [
+      {
+        "id": 252906978,
+        "createdAt": "2026-11-03T16:19:23.635Z",
+        "latitude": 49.20019987987708,
+        "longitude": -0.3383348509669304,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": 4,
+        "userId": 7358993
+      },
+      {
+        "id": 252906887,
+        "createdAt": "2026-11-03T06:20:00.000Z",
+        "latitude": 49.20019987987708,
+        "longitude": -0.3383348509669304,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": null,
+        "userId": 7358993
+      }
+    ]
+  },
+  {
+    "id": 401426,
+    "username": "skrubdaddy",
+    "poopsCount": 419,
+    "pinColor": "#fdff00",
+    "createdAt": "2020-02-15T00:56:23.363Z",
+    "poops": [
+      {
+        "id": 252918069,
+        "createdAt": "2026-11-03T18:34:15.341Z",
+        "latitude": 35.10228708001625,
+        "longitude": -106.5752128511667,
+        "isAirplane": 0,
+        "note": "fuck these cysts on my ass are killing me! I can't wait for my dermatologist appt on Friday, I had one pop yesterday while I was on the toilet but they only like bleed, there's no infected pore that comes out or anything, I just need relief it hurts so bad to have my bare ass cheeks on the toilet 😭😭",
+        "pinColor": "#fdff00",
+        "place": "Citadel",
+        "raing": 3,
+        "userId": 401426
+      }
+    ]
+  },
+  {
+    "id": 7118870,
+    "username": "skyepoos",
+    "poopsCount": 1307,
+    "pinColor": null,
+    "createdAt": "2025-11-07T22:15:09.423Z",
+    "poops": [
+      {
+        "id": 252924454,
+        "createdAt": "2026-11-03T20:01:29.592Z",
+        "latitude": 51.65216390586288,
+        "longitude": -3.974682725965977,
+        "isAirplane": 0,
+        "note": "good pooh",
+        "pinColor": null,
+        "place": "house",
+        "raing": null,
+        "userId": 7118870
+      }
+    ]
+  },
+  {
+    "id": 4917272,
+    "username": "Terry'sTurds:)",
+    "poopsCount": 263,
+    "pinColor": null,
+    "createdAt": "2022-07-28T00:01:31.716Z",
+    "poops": [
+      {
+        "id": 252924142,
+        "createdAt": "2026-11-03T19:55:11.158Z",
+        "latitude": 39.63836383558127,
+        "longitude": -86.86025172472,
+        "isAirplane": 0,
+        "note": "rushed",
+        "pinColor": null,
+        "place": "kappa",
+        "raing": 3,
+        "userId": 4917272
+      }
+    ]
+  },
+  {
+    "id": 5045786,
+    "username": "Spookworm",
+    "poopsCount": 1412,
+    "pinColor": "#6700ff",
+    "createdAt": "2022-11-05T05:45:03.684Z",
+    "poops": [
+      {
+        "id": 252922775,
+        "createdAt": "2026-11-03T19:37:27.019Z",
+        "latitude": 35.46540896508359,
+        "longitude": -81.25478524714708,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#6700ff",
+        "place": "",
+        "raing": null,
+        "userId": 5045786
+      },
+      {
+        "id": 252895019,
+        "createdAt": "2026-11-03T14:06:23.740Z",
+        "latitude": 35.46535052787021,
+        "longitude": -81.25479027628899,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#6700ff",
+        "place": "",
+        "raing": 3,
+        "userId": 5045786
+      }
+    ]
+  },
+  {
+    "id": 954395,
+    "username": "Shid Shaman",
+    "poopsCount": 2905,
+    "pinColor": "#ff0081",
+    "createdAt": "2020-09-13T03:23:27.565Z",
+    "poops": [
+      {
+        "id": 252913823,
+        "createdAt": "2026-11-03T17:41:47.190Z",
+        "latitude": 41.48385713479056,
+        "longitude": -81.70344706624746,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff0081",
+        "place": "WHS Engineering",
+        "raing": 4,
+        "userId": 954395
+      }
+    ]
+  },
+  {
+    "id": 5467165,
+    "username": "Colonel Turdel",
+    "poopsCount": 3807,
+    "pinColor": "#005cff",
+    "createdAt": "2023-09-18T14:19:00.577Z",
+    "poops": [
+      {
+        "id": 252896220,
+        "createdAt": "2026-11-03T14:15:24.572Z",
+        "latitude": 42.77993363275207,
+        "longitude": -73.98285459727049,
+        "isAirplane": 0,
+        "note": "very tight to get in here no room to maneuver you need T Rex arms to grab toilet paper thus making wiping an adventure. trying to avoid contact with the walls I'm certain others may have smeared shit . already stunk when I entered so I cannot guarantee if the after stench is my poop or the feral animal that shit before me",
+        "pinColor": "#005cff",
+        "place": "Schnectady NY",
+        "raing": 2,
+        "userId": 5467165
+      }
+    ]
+  },
+  {
+    "id": 1338909,
+    "username": "SanjayShits💩",
+    "poopsCount": 4008,
+    "pinColor": "#8d00ff",
+    "createdAt": "2021-02-11T14:59:56.636Z",
+    "poops": [
+      {
+        "id": 252895239,
+        "createdAt": "2026-11-03T14:09:22.085Z",
+        "latitude": 33.58893752527613,
+        "longitude": -82.16050587594509,
+        "isAirplane": 0,
+        "note": "pt 2",
+        "pinColor": "#8d00ff",
+        "place": "Lanet’s Crib",
+        "raing": 2,
+        "userId": 1338909
+      }
+    ]
+  },
+  {
+    "id": 1585186,
+    "username": "agirlwhoshits",
+    "poopsCount": 39,
+    "pinColor": "#ec00ff",
+    "createdAt": "2021-02-20T20:36:45.354Z",
+    "poops": [
+      {
+        "id": 252895527,
+        "createdAt": "2026-10-31T13:11:44.131Z",
+        "latitude": 41.37776810022662,
+        "longitude": -74.69443827867508,
+        "isAirplane": 0,
+        "note": "oh i realize i didn’t log a poop for halloween. i’m doing that now because ive been lacking",
+        "pinColor": "#ec00ff",
+        "place": "home",
+        "raing": 5,
+        "userId": 1585186
+      },
+      {
+        "id": 252895372,
+        "createdAt": "2026-11-03T14:10:22.291Z",
+        "latitude": 41.37776935812835,
+        "longitude": -74.69443425536156,
+        "isAirplane": 0,
+        "note": "nothing special, just a morning doo to start my day 🥰",
+        "pinColor": "#ec00ff",
+        "place": "home",
+        "raing": 4,
+        "userId": 1585186
+      }
+    ]
+  },
+  {
+    "id": 5795875,
+    "username": "sam2011",
+    "poopsCount": 2814,
+    "pinColor": "#47ff00",
+    "createdAt": "2024-03-02T16:51:28.257Z",
+    "poops": [
+      {
+        "id": 252906022,
+        "createdAt": "2026-11-03T16:08:46.511Z",
+        "latitude": 51.85449854515672,
+        "longitude": -3.104028962552547,
+        "isAirplane": 0,
+        "note": "small sloppy one nearly end of day",
+        "pinColor": "#47ff00",
+        "place": "Work (Llangenny)",
+        "raing": 2,
+        "userId": 5795875
+      }
+    ]
+  },
+  {
+    "id": 7039534,
+    "username": "PatrnSaintBD",
+    "poopsCount": 426,
+    "pinColor": "#795548",
+    "createdAt": "2025-08-04T00:33:41.200Z",
+    "poops": [
+      {
+        "id": 252906737,
+        "createdAt": "2026-11-03T16:16:35.292Z",
+        "latitude": 41.71383271604061,
+        "longitude": -111.8377904221416,
+        "isAirplane": 0,
+        "note": "That needed to happen 30 minutes ago.",
+        "pinColor": "#795548",
+        "place": "Forge Fitness",
+        "raing": 5,
+        "userId": 7039534
+      }
+    ]
+  },
+  {
+    "id": 2188847,
+    "username": "rawtyn",
+    "poopsCount": 1405,
+    "pinColor": "#f300ff",
+    "createdAt": "2021-02-25T23:46:53.674Z",
+    "poops": [
+      {
+        "id": 252923867,
+        "createdAt": "2026-11-03T19:52:18.099Z",
+        "latitude": 38.923021317066,
+        "longitude": -94.3684759363532,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#f300ff",
+        "place": "",
+        "raing": 0,
+        "userId": 2188847
+      }
+    ]
+  },
+  {
+    "id": 5211696,
+    "username": "Farty Pancreas",
+    "poopsCount": 1278,
+    "pinColor": "#00ffe7",
+    "createdAt": "2023-02-13T11:43:37.586Z",
+    "poops": [
+      {
+        "id": 252914653,
+        "createdAt": "2026-11-03T17:52:57.414Z",
+        "latitude": 39.0362883774184,
+        "longitude": -96.77253820002079,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ffe7",
+        "place": "Home Base",
+        "raing": 1,
+        "userId": 5211696
+      }
+    ]
+  },
+  {
+    "id": 3710000,
+    "username": "ibs _dumps",
+    "poopsCount": 1741,
+    "pinColor": "#d81b60",
+    "createdAt": "2021-05-22T02:18:08.601Z",
+    "poops": [
+      {
+        "id": 252906166,
+        "createdAt": "2026-11-03T16:11:02.582Z",
+        "latitude": 41.35580847435335,
+        "longitude": -81.75299283117054,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": 3,
+        "userId": 3710000
+      }
+    ]
+  },
+  {
+    "id": 2403378,
+    "username": "Poopstarr23",
+    "poopsCount": 1610,
+    "pinColor": "#8f00ff",
+    "createdAt": "2021-03-02T08:48:36.241Z",
+    "poops": [
+      {
+        "id": 252913994,
+        "createdAt": "2026-11-03T17:44:44.727Z",
+        "latitude": 42.62962399390492,
+        "longitude": -71.35670475661755,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#8f00ff",
+        "place": "",
+        "raing": null,
+        "userId": 2403378
+      }
+    ]
+  },
+  {
+    "id": 4609082,
+    "username": "marspoopstar",
+    "poopsCount": 408,
+    "pinColor": "#01ff00",
+    "createdAt": "2022-01-19T01:38:50.858Z",
+    "poops": [
+      {
+        "id": 252916762,
+        "createdAt": "2026-11-03T18:19:24.876Z",
+        "latitude": 53.45083843528047,
+        "longitude": -2.236751429736614,
+        "isAirplane": 0,
+        "note": "too big too big",
+        "pinColor": "#01ff00",
+        "place": "",
+        "raing": null,
+        "userId": 4609082
+      }
+    ]
+  },
+  {
+    "id": 1971259,
+    "username": "The Shit Machinee",
+    "poopsCount": 2997,
+    "pinColor": null,
+    "createdAt": "2021-02-23T17:22:19.344Z",
+    "poops": [
+      {
+        "id": 252924244,
+        "createdAt": "2026-11-03T19:57:21.368Z",
+        "latitude": 25.9969897077102,
+        "longitude": -80.12107349932194,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 5,
+        "userId": 1971259
+      }
+    ]
+  },
+  {
+    "id": 1966140,
+    "username": "kingelipoopsalot",
+    "poopsCount": 8041,
+    "pinColor": "#ff0004",
+    "createdAt": "2021-02-23T16:17:46.905Z",
+    "poops": [
+      {
+        "id": 252899229,
+        "createdAt": "2026-11-03T14:53:20.128Z",
+        "latitude": 28.51544812017517,
+        "longitude": -81.61477323621511,
+        "isAirplane": 0,
+        "note": "Kept thinking I had to fart but when I'd give a slight push, I knew a poo was in brew",
+        "pinColor": "#ff0004",
+        "place": "Home",
+        "raing": 3,
+        "userId": 1966140
+      },
+      {
+        "id": 252897567,
+        "createdAt": "2026-11-03T14:35:20.100Z",
+        "latitude": 28.51543810366408,
+        "longitude": -81.61478731781244,
+        "isAirplane": 0,
+        "note": "Hard to push out pebbles",
+        "pinColor": "#ff0004",
+        "place": "Home",
+        "raing": 0,
+        "userId": 1966140
+      }
+    ]
+  },
+  {
+    "id": 6387261,
+    "username": "mariyka",
+    "poopsCount": 589,
+    "pinColor": null,
+    "createdAt": "2024-10-27T08:27:37.255Z",
+    "poops": [
+      {
+        "id": 252924345,
+        "createdAt": "2026-11-03T19:57:42.524Z",
+        "latitude": 48.25953605115899,
+        "longitude": 25.92891655862331,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 3,
+        "userId": 6387261
+      }
+    ]
+  },
+  {
+    "id": 4280893,
+    "username": "EmilyAnything",
+    "poopsCount": 2371,
+    "pinColor": "#ff00bd",
+    "createdAt": "2021-09-30T01:38:23.848Z",
+    "poops": [
+      {
+        "id": 252905093,
+        "createdAt": "2026-11-03T15:00:00.000Z",
+        "latitude": 41.52620504191635,
+        "longitude": -88.07972878217697,
+        "isAirplane": 0,
+        "note": "bruh",
+        "pinColor": "#ff00bd",
+        "place": "APARTMENT",
+        "raing": 3,
+        "userId": 4280893
+      }
+    ]
+  },
+  {
+    "id": 1753151,
+    "username": "opechey",
+    "poopsCount": 1211,
+    "pinColor": null,
+    "createdAt": "2021-02-21T22:51:57.820Z",
+    "poops": [
+      {
+        "id": 252924383,
+        "createdAt": "2026-11-03T19:59:00.808Z",
+        "latitude": 36.07201448059336,
+        "longitude": -94.1724507138133,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "jtcdsc",
+        "raing": 2,
+        "userId": 1753151
+      }
+    ]
+  },
+  {
+    "id": 5147711,
+    "username": "fish_kissin_freak",
+    "poopsCount": 1293,
+    "pinColor": "#7bff00",
+    "createdAt": "2023-01-07T20:47:27.432Z",
+    "poops": [
+      {
+        "id": 252898285,
+        "createdAt": "2026-11-03T14:42:03.059Z",
+        "latitude": 39.5015471261452,
+        "longitude": -84.7257689014077,
+        "isAirplane": 0,
+        "note": "I have 3 minutes until I need to leave for class. this needs to be so fast",
+        "pinColor": "#7bff00",
+        "place": "Helen’s Bathroom",
+        "raing": 3,
+        "userId": 5147711
+      }
+    ]
+  },
+  {
+    "id": 7105601,
+    "username": "dingle.rebs",
+    "poopsCount": 528,
+    "pinColor": "#d81b60",
+    "createdAt": "2025-10-19T20:41:31.318Z",
+    "poops": [
+      {
+        "id": 252919580,
+        "createdAt": "2026-11-03T18:55:00.223Z",
+        "latitude": 55.67004229400266,
+        "longitude": 12.59034376591444,
+        "isAirplane": 0,
+        "note": "pre president",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": 4,
+        "userId": 7105601
+      }
+    ]
+  },
+  {
+    "id": 7484481,
+    "username": "PerfectionistPooer",
+    "poopsCount": 6,
+    "pinColor": "#795548",
+    "createdAt": "2026-10-31T11:27:01.658Z",
+    "poops": [
+      {
+        "id": 252904307,
+        "createdAt": "2026-11-03T15:49:52.243Z",
+        "latitude": 52.05613796574626,
+        "longitude": -1.077777296304703,
+        "isAirplane": 0,
+        "note": "it felt good",
+        "pinColor": "#795548",
+        "place": "home",
+        "raing": 5,
+        "userId": 7484481
+      }
+    ]
+  },
+  {
+    "id": 2010179,
+    "username": "MarvelousPooop",
+    "poopsCount": 3509,
+    "pinColor": "#3f00ff",
+    "createdAt": "2021-02-24T00:34:34.446Z",
+    "poops": [
+      {
+        "id": 252907592,
+        "createdAt": "2026-11-03T16:27:38.284Z",
+        "latitude": 42.58167172919503,
+        "longitude": -71.28960996866226,
+        "isAirplane": 0,
+        "note": "all I drank was an alani 😒",
+        "pinColor": "#3f00ff",
+        "place": "",
+        "raing": 1,
+        "userId": 2010179
+      },
+      {
+        "id": 252902584,
+        "createdAt": "2026-11-03T15:31:00.404Z",
+        "latitude": 42.61146803582628,
+        "longitude": -71.34231168776749,
+        "isAirplane": 0,
+        "note": "pooping",
+        "pinColor": "#3f00ff",
+        "place": "",
+        "raing": 4,
+        "userId": 2010179
+      }
+    ]
+  },
+  {
+    "id": 3708996,
+    "username": "melanieew",
+    "poopsCount": 2779,
+    "pinColor": null,
+    "createdAt": "2021-05-21T22:33:27.029Z",
+    "poops": [
+      {
+        "id": 252924166,
+        "createdAt": "2026-11-03T19:56:13.807Z",
+        "latitude": 39.21442525664467,
+        "longitude": -75.57992935180664,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "grandmas",
+        "raing": null,
+        "userId": 3708996
+      }
+    ]
+  },
+  {
+    "id": 3740746,
+    "username": "anodestruido333",
+    "poopsCount": 2172,
+    "pinColor": "#1e88e5",
+    "createdAt": "2021-05-26T20:27:12.081Z",
+    "poops": [
+      {
+        "id": 252904406,
+        "createdAt": "2026-11-03T15:46:45.672Z",
+        "latitude": 38.38351453136937,
+        "longitude": -0.5127086117863654,
+        "isAirplane": 0,
+        "note": "cagando antes de clase de terminología💔tengo sueño\nla primera parte ha salido rápido pero me está costando echar el último lil mojoncete, llegaré tarde a clase\nme he tirado un peo y ha salido",
+        "pinColor": "#1e88e5",
+        "place": "biblioteca de filosofía y letras",
+        "raing": 3,
+        "userId": 3740746
+      }
+    ]
+  },
+  {
+    "id": 6644811,
+    "username": "assh_OO_le",
+    "poopsCount": 324,
+    "pinColor": "#52ff00",
+    "createdAt": "2025-01-02T10:55:11.513Z",
+    "poops": [
+      {
+        "id": 252902956,
+        "createdAt": "2026-11-03T15:33:34.364Z",
+        "latitude": 47.19462730094596,
+        "longitude": -1.58247884362936,
+        "isAirplane": 0,
+        "note": "un petit restatrochou",
+        "pinColor": "#52ff00",
+        "place": "HsH downstairs",
+        "raing": 3,
+        "userId": 6644811
+      }
+    ]
+  },
+  {
+    "id": 3921484,
+    "username": "HOTGIRLSFART",
+    "poopsCount": 830,
+    "pinColor": "#ff0009",
+    "createdAt": "2021-07-11T23:54:56.252Z",
+    "poops": [
+      {
+        "id": 252921650,
+        "createdAt": "2026-11-03T19:20:56.364Z",
+        "latitude": 39.53673714415923,
+        "longitude": -76.56684782356024,
+        "isAirplane": 0,
+        "note": "have yall seen twilight?",
+        "pinColor": "#ff0009",
+        "place": "home",
+        "raing": 2,
+        "userId": 3921484
+      }
+    ]
+  },
+  {
+    "id": 402512,
+    "username": "poopie-wan kenobi",
+    "poopsCount": 1960,
+    "pinColor": null,
+    "createdAt": "2020-02-15T01:58:29.190Z",
+    "poops": [
+      {
+        "id": 252924387,
+        "createdAt": "2026-11-03T19:59:13.094Z",
+        "latitude": 41.3051252680829,
+        "longitude": -74.94595538824797,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 402512
+      },
+      {
+        "id": 252924370,
+        "createdAt": "2026-11-03T19:59:00.600Z",
+        "latitude": 41.3050942891561,
+        "longitude": -74.94597617536783,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 402512
+      }
+    ]
+  },
+  {
+    "id": 4887122,
+    "username": "Pitt",
+    "poopsCount": 258,
+    "pinColor": null,
+    "createdAt": "2022-07-02T20:17:31.449Z",
+    "poops": [
+      {
+        "id": 252924297,
+        "createdAt": "2026-11-03T19:57:51.837Z",
+        "latitude": 45.30882816235243,
+        "longitude": 10.34069694578648,
+        "isAirplane": 0,
+        "note": "bella cacca dopo scoregge brutte",
+        "pinColor": null,
+        "place": "Casa",
+        "raing": 3,
+        "userId": 4887122
+      }
+    ]
+  },
+  {
+    "id": 4091987,
+    "username": "abitchwhoshits247",
+    "poopsCount": 163,
+    "pinColor": "#00d0ff",
+    "createdAt": "2021-08-02T00:55:42.704Z",
+    "poops": [
+      {
+        "id": 252895252,
+        "createdAt": "2026-11-03T14:07:10.034Z",
+        "latitude": 41.35283095443542,
+        "longitude": -74.729342199862,
+        "isAirplane": 0,
+        "note": "creating a super massive black hole type vacuum in my stomach as im typing this, it hurts. god save us all",
+        "pinColor": "#00d0ff",
+        "place": "Harbor Freight",
+        "raing": 1,
+        "userId": 4091987
+      }
+    ]
+  },
+  {
+    "id": 7302229,
+    "username": "BrownlavaIHC",
+    "poopsCount": 28,
+    "pinColor": null,
+    "createdAt": "2026-06-25T23:01:51.294Z",
+    "poops": [
+      {
+        "id": 252924275,
+        "createdAt": "2026-11-03T19:57:43.602Z",
+        "latitude": 33.48834890928678,
+        "longitude": -97.44836065918207,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 7302229
+      }
+    ]
+  },
+  {
+    "id": 5168726,
+    "username": "PoeperDePoeper",
+    "poopsCount": 1916,
+    "pinColor": "#6600ff",
+    "createdAt": "2023-01-18T09:00:23.543Z",
+    "poops": [
+      {
+        "id": 252920443,
+        "createdAt": "2026-11-03T19:06:42.043Z",
+        "latitude": 52.15576284316504,
+        "longitude": 5.38822028785944,
+        "isAirplane": 0,
+        "note": "goeie poep",
+        "pinColor": "#6600ff",
+        "place": "",
+        "raing": 4,
+        "userId": 5168726
+      }
+    ]
+  },
+  {
+    "id": 3887193,
+    "username": "JoobDropsLogs",
+    "poopsCount": 4617,
+    "pinColor": null,
+    "createdAt": "2021-07-02T05:54:13.774Z",
+    "poops": [
+      {
+        "id": 252924377,
+        "createdAt": "2026-11-03T19:59:04.274Z",
+        "latitude": 44.93643487114894,
+        "longitude": -93.36682341992855,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 2,
+        "userId": 3887193
+      }
+    ]
+  },
+  {
+    "id": 1412185,
+    "username": "scabual",
+    "poopsCount": 786,
+    "pinColor": "#ff0044",
+    "createdAt": "2021-02-19T19:27:56.764Z",
+    "poops": [
+      {
+        "id": 252915901,
+        "createdAt": "2026-11-03T18:08:38.825Z",
+        "latitude": 49.19435000051185,
+        "longitude": -124.0655967593193,
+        "isAirplane": 0,
+        "note": "two easy i had to hop on poop\nmap before my trip bro poop map lock in",
+        "pinColor": "#ff0044",
+        "place": "",
+        "raing": 5,
+        "userId": 1412185
+      }
+    ]
+  },
+  {
+    "id": 4258905,
+    "username": "Hayley's_poopies",
+    "poopsCount": 3,
+    "pinColor": "#d81b60",
+    "createdAt": "2021-09-20T19:34:43.780Z",
+    "poops": [
+      {
+        "id": 252914634,
+        "createdAt": "2026-11-03T17:51:30.447Z",
+        "latitude": 40.06338304096329,
+        "longitude": -77.52646140754224,
+        "isAirplane": 0,
+        "note": "the tiniest turdlette possible",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": 0,
+        "userId": 4258905
+      }
+    ]
+  },
+  {
+    "id": 4569178,
+    "username": "Pis Kuijpers",
+    "poopsCount": 2485,
+    "pinColor": "#1bff00",
+    "createdAt": "2021-12-30T22:38:06.081Z",
+    "poops": [
+      {
+        "id": 252903653,
+        "createdAt": "2026-11-03T15:43:06.386Z",
+        "latitude": 51.68661709295066,
+        "longitude": 5.323445610702038,
+        "isAirplane": 0,
+        "note": "poep",
+        "pinColor": "#1bff00",
+        "place": "thuis",
+        "raing": 4,
+        "userId": 4569178
+      }
+    ]
+  },
+  {
+    "id": 6869085,
+    "username": "Krembananen",
+    "poopsCount": 304,
+    "pinColor": "#ff00f8",
+    "createdAt": "2025-03-29T22:25:09.764Z",
+    "poops": [
+      {
+        "id": 252921920,
+        "createdAt": "2026-11-03T19:23:41.195Z",
+        "latitude": 59.91385134492275,
+        "longitude": 10.72956662625074,
+        "isAirplane": 0,
+        "note": "Dagens første. Veldig etterlengtet. Fikk do-kort i baren 🤣",
+        "pinColor": "#ff00f8",
+        "place": "Juret",
+        "raing": 5,
+        "userId": 6869085
+      }
+    ]
+  },
+  {
+    "id": 4467810,
+    "username": "owo? wuts dis?",
+    "poopsCount": 2125,
+    "pinColor": "#005bff",
+    "createdAt": "2021-11-09T03:03:46.813Z",
+    "poops": [
+      {
+        "id": 252918850,
+        "createdAt": "2026-11-03T18:46:04.887Z",
+        "latitude": 37.76497380674611,
+        "longitude": -122.2323052212596,
+        "isAirplane": 0,
+        "note": "morning coffee poop. quilting",
+        "pinColor": "#005bff",
+        "place": "downstairs",
+        "raing": 4,
+        "userId": 4467810
+      }
+    ]
+  },
+  {
+    "id": 6939753,
+    "username": "hy0kkk",
+    "poopsCount": 640,
+    "pinColor": "#ff6c00",
+    "createdAt": "2025-05-10T09:37:23.058Z",
+    "poops": [
+      {
+        "id": 252901153,
+        "createdAt": "2026-11-03T15:15:30.516Z",
+        "latitude": 1.356110226458895,
+        "longitude": 103.9322341606021,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff6c00",
+        "place": "temp home",
+        "raing": null,
+        "userId": 6939753
+      }
+    ]
+  },
+  {
+    "id": 4839019,
+    "username": "loismustpoo",
+    "poopsCount": 90,
+    "pinColor": "#d81b60",
+    "createdAt": "2022-05-24T09:28:29.595Z",
+    "poops": [
+      {
+        "id": 252900508,
+        "createdAt": "2026-11-03T15:06:10.859Z",
+        "latitude": 51.5240390520484,
+        "longitude": -0.7326966896653176,
+        "isAirplane": 0,
+        "note": "poo was good fast but very very hard to wipe, lots of wiping. bum hurts",
+        "pinColor": "#d81b60",
+        "place": "seb’s dads home",
+        "raing": 4,
+        "userId": 4839019
+      }
+    ]
+  },
+  {
+    "id": 5918317,
+    "username": "allishitzy",
+    "poopsCount": 684,
+    "pinColor": "#ffe200",
+    "createdAt": "2024-05-30T02:09:59.691Z",
+    "poops": [
+      {
+        "id": 252913972,
+        "createdAt": "2026-11-03T13:21:00.000Z",
+        "latitude": 33.86488201585715,
+        "longitude": -118.3920199424028,
+        "isAirplane": 0,
+        "note": "this was an early morning quicky",
+        "pinColor": "#ffe200",
+        "place": "",
+        "raing": 3,
+        "userId": 5918317
+      }
+    ]
+  },
+  {
+    "id": 7485550,
+    "username": "pit il distruttore di cessi",
+    "poopsCount": 2,
+    "pinColor": "#212121",
+    "createdAt": "2026-11-01T19:21:07.959Z",
+    "poops": [
+      {
+        "id": 252904193,
+        "createdAt": "2026-11-03T15:49:10.727Z",
+        "latitude": 44.41074097355661,
+        "longitude": 12.19377681612969,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#212121",
+        "place": "",
+        "raing": null,
+        "userId": 7485550
+      }
+    ]
+  },
+  {
+    "id": 4712559,
+    "username": "smellee.",
+    "poopsCount": 3078,
+    "pinColor": "#0dff00",
+    "createdAt": "2022-03-14T17:24:38.137Z",
+    "poops": [
+      {
+        "id": 252911469,
+        "createdAt": "2026-11-03T17:13:16.278Z",
+        "latitude": 40.99990996391472,
+        "longitude": -76.46410513669252,
+        "isAirplane": 0,
+        "note": "lots of fart not lots of poop",
+        "pinColor": "#0dff00",
+        "place": "home",
+        "raing": 3,
+        "userId": 4712559
+      }
+    ]
+  },
+  {
+    "id": 7167600,
+    "username": "poopboy124",
+    "poopsCount": 478,
+    "pinColor": null,
+    "createdAt": "2026-01-02T01:45:43.685Z",
+    "poops": [
+      {
+        "id": 252924439,
+        "createdAt": "2026-11-03T19:59:45.875Z",
+        "latitude": 40.41165702763519,
+        "longitude": -79.71488177776337,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 5,
+        "userId": 7167600
+      }
+    ]
+  },
+  {
+    "id": 1752688,
+    "username": "Marcus «Mannen» Telhaug",
+    "poopsCount": 82,
+    "pinColor": "#e53935",
+    "createdAt": "2021-02-21T22:48:54.313Z",
+    "poops": [
+      {
+        "id": 252906821,
+        "createdAt": "2026-11-03T16:18:12.386Z",
+        "latitude": 58.14621649860418,
+        "longitude": 7.090933509171009,
+        "isAirplane": 0,
+        "note": "dårlig tid, jille bajs, snart trening",
+        "pinColor": "#e53935",
+        "place": "Hjemma",
+        "raing": 4,
+        "userId": 1752688
+      }
+    ]
+  },
+  {
+    "id": 7234674,
+    "username": "gassiest_serp3nt_in_daytona",
+    "poopsCount": 418,
+    "pinColor": null,
+    "createdAt": "2026-03-14T19:05:12.748Z",
+    "poops": [
+      {
+        "id": 252924325,
+        "createdAt": "2026-11-03T19:58:10.870Z",
+        "latitude": 29.04047878515756,
+        "longitude": -81.03108298033477,
+        "isAirplane": 0,
+        "note": "one PATHETIC nugget.",
+        "pinColor": null,
+        "place": "mom and dads bathroom",
+        "raing": 5,
+        "userId": 7234674
+      }
+    ]
+  },
+  {
+    "id": 5839985,
+    "username": "Stik-Poo",
+    "poopsCount": 1004,
+    "pinColor": "#fb8c00",
+    "createdAt": "2024-04-01T14:34:32.386Z",
+    "poops": [
+      {
+        "id": 252906259,
+        "createdAt": "2026-11-03T16:11:24.800Z",
+        "latitude": 42.66129388089487,
+        "longitude": 12.51284770667553,
+        "isAirplane": 0,
+        "note": "😅😅😅😅",
+        "pinColor": "#fb8c00",
+        "place": "",
+        "raing": 1,
+        "userId": 5839985
+      }
+    ]
+  },
+  {
+    "id": 4590707,
+    "username": "Ereria",
+    "poopsCount": 548,
+    "pinColor": "#00ffd5",
+    "createdAt": "2022-01-09T23:28:35.845Z",
+    "poops": [
+      {
+        "id": 252899816,
+        "createdAt": "2026-11-03T15:00:26.871Z",
+        "latitude": 45.12339370886844,
+        "longitude": 7.711219824850558,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ffd5",
+        "place": "",
+        "raing": null,
+        "userId": 4590707
+      }
+    ]
+  },
+  {
+    "id": 6724727,
+    "username": "GeneralTaw",
+    "poopsCount": 887,
+    "pinColor": null,
+    "createdAt": "2025-01-16T20:55:05.562Z",
+    "poops": [
+      {
+        "id": 252924343,
+        "createdAt": "2026-11-03T19:58:32.165Z",
+        "latitude": 46.78503624539537,
+        "longitude": -71.31514359265567,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 6724727
+      }
+    ]
+  },
+  {
+    "id": 6812280,
+    "username": "miumiupoopie",
+    "poopsCount": 725,
+    "pinColor": "#abff00",
+    "createdAt": "2025-03-02T17:44:47.007Z",
+    "poops": [
+      {
+        "id": 252922576,
+        "createdAt": "2026-11-03T19:29:56.316Z",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "isAirplane": 0,
+        "note": "went to my gyno follow up today and my endo is progressing yay :// that explains much of the increased pain in the last few years. highly considering hormone therapy but also don’t want to get fuck ass osteoporosis like wtf 🫪🫪 anyway, been wfh the last two days because im trying to lock into writing the intro to my thesis but tbh not getting too far. finished my project matrix tho which was fun, at least now i have a solid chart with the questions and structure i want to follow. at least mimi is happy im home",
+        "pinColor": "#abff00",
+        "place": "",
+        "raing": 1,
+        "userId": 6812280
+      }
+    ]
+  },
+  {
+    "id": 7176317,
+    "username": "sickenme",
+    "poopsCount": 485,
+    "pinColor": "#003cff",
+    "createdAt": "2026-01-05T12:18:22.138Z",
+    "poops": [
+      {
+        "id": 252924375,
+        "createdAt": "2026-11-03T19:58:46.522Z",
+        "latitude": 34.97769158947209,
+        "longitude": -89.99195605516434,
+        "isAirplane": 0,
+        "note": "straight sliming it",
+        "pinColor": "#003cff",
+        "place": "home 👻",
+        "raing": 3,
+        "userId": 7176317
+      }
+    ]
+  },
+  {
+    "id": 5460095,
+    "username": "NoFartsTrusted",
+    "poopsCount": 1475,
+    "pinColor": "#00ff1f",
+    "createdAt": "2023-09-12T18:03:19.781Z",
+    "poops": [
+      {
+        "id": 252916496,
+        "createdAt": "2026-11-03T18:16:29.158Z",
+        "latitude": 49.03632299179932,
+        "longitude": -122.2304565086961,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff1f",
+        "place": "",
+        "raing": null,
+        "userId": 5460095
+      },
+      {
+        "id": 252898900,
+        "createdAt": "2026-11-03T14:50:27.850Z",
+        "latitude": 49.06205079430723,
+        "longitude": -122.3801200836897,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff1f",
+        "place": "",
+        "raing": null,
+        "userId": 5460095
+      }
+    ]
+  },
+  {
+    "id": 5350528,
+    "username": "fresh 67",
+    "poopsCount": 477,
+    "pinColor": "#faff00",
+    "createdAt": "2023-06-11T18:30:46.163Z",
+    "poops": [
+      {
+        "id": 252921279,
+        "createdAt": "2026-11-03T19:13:57.699Z",
+        "latitude": 41.63843091137996,
+        "longitude": -111.9269493967295,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#faff00",
+        "place": "",
+        "raing": 5,
+        "userId": 5350528
+      }
+    ]
+  },
+  {
+    "id": 7345281,
+    "username": "CoopDawg09",
+    "poopsCount": 131,
+    "pinColor": null,
+    "createdAt": "2026-09-02T02:46:01.296Z",
+    "poops": [
+      {
+        "id": 252924159,
+        "createdAt": "2026-11-03T19:56:04.617Z",
+        "latitude": 41.14085582644493,
+        "longitude": -112.0550419762731,
+        "isAirplane": 0,
+        "note": "tied up big boy",
+        "pinColor": null,
+        "place": "home",
+        "raing": 4,
+        "userId": 7345281
+      }
+    ]
+  },
+  {
+    "id": 6129282,
+    "username": "toilet member",
+    "poopsCount": 694,
+    "pinColor": null,
+    "createdAt": "2024-08-16T13:21:58.769Z",
+    "poops": [
+      {
+        "id": 252924141,
+        "createdAt": "2026-11-03T19:54:09.318Z",
+        "latitude": 42.65788790636143,
+        "longitude": 141.6129541397095,
+        "isAirplane": 0,
+        "note": "lagi siap-siap malah kebelet boker",
+        "pinColor": null,
+        "place": "",
+        "raing": 4,
+        "userId": 6129282
+      }
+    ]
+  },
+  {
+    "id": 1506945,
+    "username": "MikeD-ToiletDestroyer",
+    "poopsCount": 2141,
+    "pinColor": "#0eff00",
+    "createdAt": "2021-02-20T06:59:48.987Z",
+    "poops": [
+      {
+        "id": 252912491,
+        "createdAt": "2026-11-03T17:24:21.305Z",
+        "latitude": 29.47498678721837,
+        "longitude": -98.21989439427853,
+        "isAirplane": 0,
+        "note": "Rough poop after some Whataburger last night. Thanks Bacon Blaze Jalapeño Burger 🍔 that thing was incredibly delicious though!",
+        "pinColor": "#0eff00",
+        "place": "Mom's House",
+        "raing": 3,
+        "userId": 1506945
+      }
+    ]
+  },
+  {
+    "id": 4719747,
+    "username": "Knoxious",
+    "poopsCount": 14,
+    "pinColor": "#00ffc0",
+    "createdAt": "2022-03-18T20:17:31.099Z",
+    "poops": [
+      {
+        "id": 252905893,
+        "createdAt": "2026-11-03T05:45:00.000Z",
+        "latitude": 33.81267955504612,
+        "longitude": -98.69004338979721,
+        "isAirplane": 0,
+        "note": "Tummy hurt",
+        "pinColor": "#00ffc0",
+        "place": "",
+        "raing": 2,
+        "userId": 4719747
+      },
+      {
+        "id": 252900699,
+        "createdAt": "2026-11-03T13:35:00.000Z",
+        "latitude": 33.81600447774497,
+        "longitude": -98.69497194886208,
+        "isAirplane": 0,
+        "note": "Holy Shit",
+        "pinColor": "#00ffc0",
+        "place": "",
+        "raing": 5,
+        "userId": 4719747
+      }
+    ]
+  },
+  {
+    "id": 6646918,
+    "username": "tracciiee",
+    "poopsCount": 823,
+    "pinColor": "#1e88e5",
+    "createdAt": "2025-01-02T17:32:58.705Z",
+    "poops": [
+      {
+        "id": 252909387,
+        "createdAt": "2026-11-03T16:48:55.347Z",
+        "latitude": 39.62018398796699,
+        "longitude": -77.68405426293612,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#1e88e5",
+        "place": "",
+        "raing": null,
+        "userId": 6646918
+      }
+    ]
+  },
+  {
+    "id": 2338438,
+    "username": "CloutySkies",
+    "poopsCount": 473,
+    "pinColor": "#1fff00",
+    "createdAt": "2021-02-28T20:57:34.893Z",
+    "poops": [
+      {
+        "id": 252907396,
+        "createdAt": "2026-11-03T16:25:12.894Z",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "isAirplane": 0,
+        "note": "morning dumpers",
+        "pinColor": "#1fff00",
+        "place": "",
+        "raing": 1,
+        "userId": 2338438
+      }
+    ]
+  },
+  {
+    "id": 1223304,
+    "username": "cornpoop420!",
+    "poopsCount": 3524,
+    "pinColor": "#ff00da",
+    "createdAt": "2020-11-26T01:26:14.903Z",
+    "poops": [
+      {
+        "id": 252908229,
+        "createdAt": "2026-11-03T16:34:46.362Z",
+        "latitude": 26.54599627678067,
+        "longitude": -81.85371313244104,
+        "isAirplane": 0,
+        "note": "no blood in my body but apparently lots of poop",
+        "pinColor": "#ff00da",
+        "place": "apex",
+        "raing": 2,
+        "userId": 1223304
+      },
+      {
+        "id": 252903816,
+        "createdAt": "2026-11-03T15:45:07.414Z",
+        "latitude": 26.54599597685072,
+        "longitude": -81.85371279716492,
+        "isAirplane": 0,
+        "note": "forgot the check",
+        "pinColor": "#ff00da",
+        "place": "apex",
+        "raing": 3,
+        "userId": 1223304
+      }
+    ]
+  },
+  {
+    "id": 7485579,
+    "username": "saman-caca",
+    "poopsCount": 4,
+    "pinColor": "#8e24aa",
+    "createdAt": "2026-11-01T19:50:55.170Z",
+    "poops": [
+      {
+        "id": 252906773,
+        "createdAt": "2026-11-03T16:17:13.563Z",
+        "latitude": 50.36615406423358,
+        "longitude": 3.103151209652424,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#8e24aa",
+        "place": "",
+        "raing": null,
+        "userId": 7485579
+      }
+    ]
+  },
+  {
+    "id": 7167117,
+    "username": "g motha freaking money",
+    "poopsCount": 80,
+    "pinColor": "#ff00c0",
+    "createdAt": "2026-01-01T23:44:47.786Z",
+    "poops": [
+      {
+        "id": 252897045,
+        "createdAt": "2026-11-03T14:28:15.410Z",
+        "latitude": 40.51823186168295,
+        "longitude": -75.77684942632914,
+        "isAirplane": 0,
+        "note": "the poop accelerates",
+        "pinColor": "#ff00c0",
+        "place": "",
+        "raing": 4,
+        "userId": 7167117
+      }
+    ]
+  },
+  {
+    "id": 7486094,
+    "username": "Generational Browner",
+    "poopsCount": 2,
+    "pinColor": "#d81b60",
+    "createdAt": "2026-11-02T13:30:45.174Z",
+    "poops": [
+      {
+        "id": 252896412,
+        "createdAt": "2026-11-03T00:53:59.170Z",
+        "latitude": 53.80921282224813,
+        "longitude": -1.586284227669239,
+        "isAirplane": 0,
+        "note": "Poo",
+        "pinColor": "#d81b60",
+        "place": "Home",
+        "raing": 2,
+        "userId": 7486094
+      }
+    ]
+  },
+  {
+    "id": 7485072,
+    "username": "LegendaryDumper67420",
+    "poopsCount": 6,
+    "pinColor": "#1e88e5",
+    "createdAt": "2026-11-01T01:13:03.168Z",
+    "poops": [
+      {
+        "id": 252898959,
+        "createdAt": "2026-11-03T14:49:56.921Z",
+        "latitude": 49.46673698396074,
+        "longitude": -119.5809801667929,
+        "isAirplane": 0,
+        "note": "slid right out lowk felt like a deer poop with all those pebbles",
+        "pinColor": "#1e88e5",
+        "place": "home",
+        "raing": 3,
+        "userId": 7485072
+      }
+    ]
+  },
+  {
+    "id": 5283474,
+    "username": "The PooLord",
+    "poopsCount": 564,
+    "pinColor": "#0003ff",
+    "createdAt": "2023-04-08T22:38:45.832Z",
+    "poops": [
+      {
+        "id": 252916143,
+        "createdAt": "2026-11-03T18:11:26.379Z",
+        "latitude": 42.17357518942382,
+        "longitude": -71.1411651223898,
+        "isAirplane": 0,
+        "note": "ANGRY POOP NOISES",
+        "pinColor": "#0003ff",
+        "place": "work",
+        "raing": 4,
+        "userId": 5283474
+      }
+    ]
+  },
+  {
+    "id": 5335187,
+    "username": "fabiano1346",
+    "poopsCount": 1804,
+    "pinColor": "#b500ff",
+    "createdAt": "2023-05-26T16:16:28.108Z",
+    "poops": [
+      {
+        "id": 252898774,
+        "createdAt": "2026-11-03T14:48:55.658Z",
+        "latitude": 41.94607915845336,
+        "longitude": -87.73257113993166,
+        "isAirplane": 0,
+        "note": "508th poop of the year. 5th for November",
+        "pinColor": "#b500ff",
+        "place": "home",
+        "raing": 5,
+        "userId": 5335187
+      }
+    ]
+  },
+  {
+    "id": 6878358,
+    "username": "Mr. Poopmelo",
+    "poopsCount": 516,
+    "pinColor": "#4bff00",
+    "createdAt": "2025-04-02T11:55:02.578Z",
+    "poops": [
+      {
+        "id": 252897020,
+        "createdAt": "2026-11-03T14:28:48.769Z",
+        "latitude": 49.32045546061666,
+        "longitude": 17.97981899231672,
+        "isAirplane": 0,
+        "note": "když ve sklepě vidím 25 kilo paprik, napadá mě jestli jsem v pořádku",
+        "pinColor": "#4bff00",
+        "place": "na bytě",
+        "raing": 4,
+        "userId": 6878358
+      }
+    ]
+  },
+  {
+    "id": 1236637,
+    "username": "spicyrotini",
+    "poopsCount": 2058,
+    "pinColor": "#ff008b",
+    "createdAt": "2020-12-02T20:14:32.797Z",
+    "poops": [
+      {
+        "id": 252898905,
+        "createdAt": "2026-11-03T14:50:32.913Z",
+        "latitude": 40.81626065979597,
+        "longitude": -74.44052763283253,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff008b",
+        "place": "",
+        "raing": null,
+        "userId": 1236637
+      }
+    ]
+  },
+  {
+    "id": 1916063,
+    "username": "bunny_turds69",
+    "poopsCount": 1109,
+    "pinColor": "#d81b60",
+    "createdAt": "2021-02-23T02:38:56.960Z",
+    "poops": [
+      {
+        "id": 252909202,
+        "createdAt": "2026-11-03T16:44:00.000Z",
+        "latitude": 32.76026464235098,
+        "longitude": -117.106804959476,
+        "isAirplane": 0,
+        "note": "just some leftovers before going into the office",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": 3,
+        "userId": 1916063
+      },
+      {
+        "id": 252895804,
+        "createdAt": "2026-11-03T14:15:07.897Z",
+        "latitude": 32.76026464235098,
+        "longitude": -117.106804959476,
+        "isAirplane": 0,
+        "note": "I love our kitties! they were curious about me pooping tho",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": 3,
+        "userId": 1916063
+      }
+    ]
+  },
+  {
+    "id": 3728554,
+    "username": "shartnado the third one",
+    "poopsCount": 1433,
+    "pinColor": "#ff00e8",
+    "createdAt": "2021-05-25T13:08:58.202Z",
+    "poops": [
+      {
+        "id": 252910215,
+        "createdAt": "2026-11-03T16:58:17.854Z",
+        "latitude": 41.73131787928178,
+        "longitude": -93.63845609128475,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff00e8",
+        "place": "",
+        "raing": 3,
+        "userId": 3728554
+      },
+      {
+        "id": 252895407,
+        "createdAt": "2026-11-03T14:11:11.156Z",
+        "latitude": 41.65208500036114,
+        "longitude": -93.62085711210966,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff00e8",
+        "place": "",
+        "raing": 4,
+        "userId": 3728554
+      }
+    ]
+  },
+  {
+    "id": 1797293,
+    "username": "shartonthebeat",
+    "poopsCount": 2949,
+    "pinColor": null,
+    "createdAt": "2021-02-22T04:13:31.327Z",
+    "poops": [
+      {
+        "id": 252924431,
+        "createdAt": "2026-11-03T19:59:44.196Z",
+        "latitude": 42.3125677595367,
+        "longitude": -89.17251639068127,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 4,
+        "userId": 1797293
+      }
+    ]
+  },
+  {
+    "id": 5201582,
+    "username": "Jezus van Bethlehem",
+    "poopsCount": 2129,
+    "pinColor": "#9a00ff",
+    "createdAt": "2023-02-06T13:44:28.230Z",
+    "poops": [
+      {
+        "id": 252917707,
+        "createdAt": "2026-11-03T18:30:47.373Z",
+        "latitude": 51.09950031926562,
+        "longitude": 3.828468471765519,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#9a00ff",
+        "place": "",
+        "raing": 3,
+        "userId": 5201582
+      },
+      {
+        "id": 252916666,
+        "createdAt": "2026-11-03T18:18:28.930Z",
+        "latitude": 51.09957716750527,
+        "longitude": 3.828382641077041,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#9a00ff",
+        "place": "",
+        "raing": 4,
+        "userId": 5201582
+      }
+    ]
+  },
+  {
+    "id": 1493685,
+    "username": "milkymegatron",
+    "poopsCount": 1226,
+    "pinColor": "#00ecff",
+    "createdAt": "2021-02-20T04:43:02.906Z",
+    "poops": [
+      {
+        "id": 252905063,
+        "createdAt": "2026-11-03T15:58:26.071Z",
+        "latitude": 42.99782810197622,
+        "longitude": -96.05650506913663,
+        "isAirplane": 0,
+        "note": "came and went real fast",
+        "pinColor": "#00ecff",
+        "place": "theatre building",
+        "raing": 3,
+        "userId": 1493685
+      }
+    ]
+  },
+  {
+    "id": 1238714,
+    "username": "klexosis",
+    "poopsCount": 1840,
+    "pinColor": "#00ffb4",
+    "createdAt": "2020-12-04T01:11:18.568Z",
+    "poops": [
+      {
+        "id": 252901744,
+        "createdAt": "2026-11-03T15:22:09.950Z",
+        "latitude": 35.54800487826152,
+        "longitude": -82.42927931249142,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ffb4",
+        "place": "home",
+        "raing": 4,
+        "userId": 1238714
+      }
+    ]
+  },
+  {
+    "id": 1512635,
+    "username": "holyshit95",
+    "poopsCount": 2436,
+    "pinColor": null,
+    "createdAt": "2021-02-20T09:40:17.665Z",
+    "poops": [
+      {
+        "id": 252924422,
+        "createdAt": "2026-11-03T19:59:36.794Z",
+        "latitude": 51.65362436769932,
+        "longitude": 5.03019567579031,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 1512635
+      }
+    ]
+  },
+  {
+    "id": 955582,
+    "username": "always a pooping",
+    "poopsCount": 472,
+    "pinColor": "#97ff00",
+    "createdAt": "2020-09-15T01:18:14.630Z",
+    "poops": [
+      {
+        "id": 252899267,
+        "createdAt": "2026-11-03T14:52:48.217Z",
+        "latitude": 40.37378968048026,
+        "longitude": -80.39352357387543,
+        "isAirplane": 0,
+        "note": "fast and firey",
+        "pinColor": "#97ff00",
+        "place": "home",
+        "raing": 4,
+        "userId": 955582
+      }
+    ]
+  },
+  {
+    "id": 5613247,
+    "username": "Renegade44",
+    "poopsCount": 1520,
+    "pinColor": "#ff3700",
+    "createdAt": "2023-12-05T01:44:30.823Z",
+    "poops": [
+      {
+        "id": 252923687,
+        "createdAt": "2026-11-03T19:49:06.577Z",
+        "latitude": 40.86976530243995,
+        "longitude": -79.87768113613129,
+        "isAirplane": 0,
+        "note": "Hot and creamy!",
+        "pinColor": "#ff3700",
+        "place": "",
+        "raing": 4,
+        "userId": 5613247
+      },
+      {
+        "id": 252908586,
+        "createdAt": "2026-11-03T16:38:56.180Z",
+        "latitude": 40.86992883258868,
+        "longitude": -79.87804424017668,
+        "isAirplane": 0,
+        "note": "Timber!!",
+        "pinColor": "#ff3700",
+        "place": "work",
+        "raing": 4,
+        "userId": 5613247
+      }
+    ]
+  },
+  {
+    "id": 5667523,
+    "username": "pooper345!",
+    "poopsCount": 398,
+    "pinColor": null,
+    "createdAt": "2023-12-29T12:52:04.238Z",
+    "poops": [
+      {
+        "id": 252924280,
+        "createdAt": "2026-11-03T19:57:32.827Z",
+        "latitude": 52.03849460503164,
+        "longitude": 4.719928465783596,
+        "isAirplane": 0,
+        "note": "diarree",
+        "pinColor": null,
+        "place": "bij mam boven",
+        "raing": 1,
+        "userId": 5667523
+      }
+    ]
+  },
+  {
+    "id": 7062212,
+    "username": "ohkamin",
+    "poopsCount": 216,
+    "pinColor": null,
+    "createdAt": "2025-08-26T01:16:06.553Z",
+    "poops": [
+      {
+        "id": 252924317,
+        "createdAt": "2026-11-03T19:58:11.013Z",
+        "latitude": 32.80055629350454,
+        "longitude": -117.2234589233994,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 3,
+        "userId": 7062212
+      }
+    ]
+  },
+  {
+    "id": 6233796,
+    "username": "samycacaslay",
+    "poopsCount": 898,
+    "pinColor": "#cc00ff",
+    "createdAt": "2024-09-30T06:00:44.604Z",
+    "poops": [
+      {
+        "id": 252903843,
+        "createdAt": "2026-11-03T15:45:19.970Z",
+        "latitude": 44.56220707218778,
+        "longitude": 4.752915948629379,
+        "isAirplane": 0,
+        "note": "mini",
+        "pinColor": "#cc00ff",
+        "place": "chez Saint mapoop",
+        "raing": 4,
+        "userId": 6233796
+      }
+    ]
+  },
+  {
+    "id": 7262406,
+    "username": "jblade05",
+    "poopsCount": 187,
+    "pinColor": null,
+    "createdAt": "2026-04-23T19:26:22.921Z",
+    "poops": [
+      {
+        "id": 252924441,
+        "createdAt": "2026-11-03T19:58:24.935Z",
+        "latitude": 36.14471594236745,
+        "longitude": -86.80329401046039,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "FGH",
+        "raing": 3,
+        "userId": 7262406
+      }
+    ]
+  },
+  {
+    "id": 951495,
+    "username": "myCARKEYS",
+    "poopsCount": 1394,
+    "pinColor": "#00f7ff",
+    "createdAt": "2020-09-08T17:34:59.256Z",
+    "poops": [
+      {
+        "id": 252921972,
+        "createdAt": "2026-11-03T19:26:07.269Z",
+        "latitude": 36.11328693076216,
+        "longitude": -115.1652708649635,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00f7ff",
+        "place": "",
+        "raing": 2,
+        "userId": 951495
+      }
+    ]
+  },
+  {
+    "id": 4568777,
+    "username": "Dinoplop",
+    "poopsCount": 2692,
+    "pinColor": "#000fff",
+    "createdAt": "2021-12-30T19:20:19.000Z",
+    "poops": [
+      {
+        "id": 252921865,
+        "createdAt": "2026-11-03T19:25:13.334Z",
+        "latitude": 39.84037896272826,
+        "longitude": -75.52228800952435,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#000fff",
+        "place": "Home",
+        "raing": 5,
+        "userId": 4568777
+      },
+      {
+        "id": 252914393,
+        "createdAt": "2026-11-03T17:50:17.693Z",
+        "latitude": 39.84037896272826,
+        "longitude": -75.52229069173336,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#000fff",
+        "place": "Home",
+        "raing": 5,
+        "userId": 4568777
+      }
+    ]
+  },
+  {
+    "id": 4966092,
+    "username": "dewkie33",
+    "poopsCount": 2313,
+    "pinColor": "#0052ff",
+    "createdAt": "2022-09-02T03:27:15.504Z",
+    "poops": [
+      {
+        "id": 252898956,
+        "createdAt": "2026-11-03T14:50:32.016Z",
+        "latitude": 44.05035055379039,
+        "longitude": -123.0903086811304,
+        "isAirplane": 0,
+        "note": "morning shart, felt this one turtling as I woke up",
+        "pinColor": "#0052ff",
+        "place": "",
+        "raing": 1,
+        "userId": 4966092
+      }
+    ]
+  },
+  {
+    "id": 7485647,
+    "username": "The Iron Stomach",
+    "poopsCount": 2,
+    "pinColor": "#1e88e5",
+    "createdAt": "2026-11-01T21:14:44.610Z",
+    "poops": [
+      {
+        "id": 252920456,
+        "createdAt": "2026-11-03T19:04:31.041Z",
+        "latitude": 42.45900808388561,
+        "longitude": -75.07084675133228,
+        "isAirplane": 0,
+        "note": "average poop today nothing too excited or special, don’t know if I should appreciate the easy day in the toilet or be upset I didn’t release Hiroshima on the toleit. One of the worlds greatest mysteries 🫡",
+        "pinColor": "#1e88e5",
+        "place": "",
+        "raing": 4,
+        "userId": 7485647
+      }
+    ]
+  },
+  {
+    "id": 7170769,
+    "username": "trash panda k",
+    "poopsCount": 624,
+    "pinColor": "#3500ff",
+    "createdAt": "2026-01-02T20:46:40.922Z",
+    "poops": [
+      {
+        "id": 252898885,
+        "createdAt": "2026-11-03T14:50:17.770Z",
+        "latitude": 40.80584634527101,
+        "longitude": -74.18607249855997,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#3500ff",
+        "place": "",
+        "raing": 3,
+        "userId": 7170769
+      }
+    ]
+  },
+  {
+    "id": 5978834,
+    "username": "itrustfarts123",
+    "poopsCount": 1083,
+    "pinColor": "#ff0087",
+    "createdAt": "2024-07-05T02:52:08.250Z",
+    "poops": [
+      {
+        "id": 252905714,
+        "createdAt": "2026-11-03T16:06:09.864Z",
+        "latitude": 40.74487309318447,
+        "longitude": -73.98109003901482,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff0087",
+        "place": "",
+        "raing": null,
+        "userId": 5978834
+      }
+    ]
+  },
+  {
+    "id": 7135444,
+    "username": "DSooPoo",
+    "poopsCount": 440,
+    "pinColor": "#ff3a00",
+    "createdAt": "2025-12-01T18:03:38.901Z",
+    "poops": [
+      {
+        "id": 252923238,
+        "createdAt": "2026-11-03T19:34:12.045Z",
+        "latitude": 38.9363248237906,
+        "longitude": -77.09116067737341,
+        "isAirplane": 0,
+        "note": "Poop: In the wise words of infomercial pitchman Ron Popeil, “But Wait, There’s More!” This one was much less satisfying than the last, with it’s nearly fully liquid appearance. However, the day is still good as I’ve gotten some lunch, and started my laundry, with one load on the dryer stage and the second load replacing the first in the washing machine. 4/10\n\nWipe: I think today’s dedication will be to myself, I’m getting my chores done, and I’m ready to take on the afternoon! I didn’t want to dedicate another one to myself so soon, but life hasn’t been so kind to me lately, so I need to take this time for some self care. I’m also going to tackle at least one of my assignments due tomorrow in my class later, for which hopefully I will have some drawls 😭🙏. Wipe was surprisingly fast. 7/10",
+        "pinColor": "#ff3a00",
+        "place": "American University Centennial 422/424 Bathroom",
+        "raing": 2,
+        "userId": 7135444
+      },
+      {
+        "id": 252918264,
+        "createdAt": "2026-11-03T18:22:10.505Z",
+        "latitude": 38.93631986872693,
+        "longitude": -77.09115967154503,
+        "isAirplane": 0,
+        "note": "Poop: I haven’t been getting good scores recently, so I feel relieved that I could at least get a good poop half in, pending the wipe. Trying to do 3 loads of laundry today, so I’m starting early with one right now, will cycle in the next load as soon as the first finishes, and then if I’m feeling it, I’ll wash my sheets as well. 7/10\n\nWipe: I still don’t have a dedication yet, doesn’t mean I won’t find one, but you never know, this may be another no dedication day, but it would be the first unintentional no dedication day. Next on the agenda is shower and lunch, then the first load shall be done. This wipe started off quite rough, which makes some sense given the consistency of this one, but still below standards. I need to start eating more regularly, in order to keep up with the physical demands of TKD, so I need to get a move on so I can have a hearty meal. Unrelated but I think there’s a homeless person living in my floors lounge. 4/10",
+        "pinColor": "#ff3a00",
+        "place": "American University Centennial 422/424 Bathroom",
+        "raing": 3,
+        "userId": 7135444
+      }
+    ]
+  },
+  {
+    "id": 1412821,
+    "username": "poop ass-assin",
+    "poopsCount": 3637,
+    "pinColor": "#ff00a9",
+    "createdAt": "2021-02-19T19:33:36.434Z",
+    "poops": [
+      {
+        "id": 252913219,
+        "createdAt": "2026-11-03T17:34:22.795Z",
+        "latitude": 45.77897460830555,
+        "longitude": -108.503791205585,
+        "isAirplane": 0,
+        "note": "wth why did that look like a sausage coming out of its casing",
+        "pinColor": "#ff00a9",
+        "place": "",
+        "raing": null,
+        "userId": 1412821
+      },
+      {
+        "id": 252901768,
+        "createdAt": "2026-11-03T15:21:52.193Z",
+        "latitude": 45.77897484213655,
+        "longitude": -108.5037905350327,
+        "isAirplane": 0,
+        "note": "yesterday was rough which means I’ve earned Ihop for dinner this evening",
+        "pinColor": "#ff00a9",
+        "place": "",
+        "raing": 3,
+        "userId": 1412821
+      }
+    ]
+  },
+  {
+    "id": 4905173,
+    "username": "StevieBruh 👽",
+    "poopsCount": 1373,
+    "pinColor": "#00ff7f",
+    "createdAt": "2022-07-18T00:52:25.566Z",
+    "poops": [
+      {
+        "id": 252903811,
+        "createdAt": "2026-11-03T15:43:55.470Z",
+        "latitude": 44.93904696360331,
+        "longitude": -92.95669019222261,
+        "isAirplane": 0,
+        "note": "poopy time is much deserved after getting my ass man handled the last three hours 😭🫩",
+        "pinColor": "#00ff7f",
+        "place": "Work",
+        "raing": 2,
+        "userId": 4905173
+      }
+    ]
+  },
+  {
+    "id": 3795670,
+    "username": "NewPoop-NewMan",
+    "poopsCount": 2473,
+    "pinColor": "#0039ff",
+    "createdAt": "2021-06-07T20:35:50.214Z",
+    "poops": [
+      {
+        "id": 252902198,
+        "createdAt": "2026-11-03T15:26:39.324Z",
+        "latitude": 35.16441061749111,
+        "longitude": -80.92053137719631,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#0039ff",
+        "place": "",
+        "raing": 4,
+        "userId": 3795670
+      }
+    ]
+  },
+  {
+    "id": 228063,
+    "username": "◁  ⌿  ☞  𓁪  ꅔ  𓁩  ☜  ⍀  ▷",
+    "poopsCount": 3448,
+    "pinColor": "#0800ff",
+    "createdAt": "2020-01-19T20:33:46.111Z",
+    "poops": [
+      {
+        "id": 252923836,
+        "createdAt": "2026-11-03T19:50:04.809Z",
+        "latitude": 39.75021139888391,
+        "longitude": -104.9966949597001,
+        "isAirplane": 0,
+        "note": "very unenjoyable experience. idk what's going on with my health. kind of just rotted at home after work yesterday because I wasn't feeling that well and then struggled to fall asleep and didn't get good sleep, but woke up feeling almost perfectly fine - like no more sore throat or other symptoms. still no sore throat, but I've had a little bit of a runny nose so idk\n\nthis drop has sucked. too much time and effort and I'm just waiting for the automatic lights to go out because I've been in here too long, ugh",
+        "pinColor": "#0800ff",
+        "place": "1675 Larimer St - 3rd floor",
+        "raing": 1,
+        "userId": 228063
+      }
+    ]
+  },
+  {
+    "id": 7360736,
+    "username": "Dingleberry_Dumper",
+    "poopsCount": 55,
+    "pinColor": "#00feff",
+    "createdAt": "2026-09-26T22:11:10.461Z",
+    "poops": [
+      {
+        "id": 252920811,
+        "createdAt": "2026-11-03T19:11:09.890Z",
+        "latitude": 45.24974544091294,
+        "longitude": -122.4220007658005,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00feff",
+        "place": "",
+        "raing": null,
+        "userId": 7360736
+      }
+    ]
+  },
+  {
+    "id": 5610721,
+    "username": "ButtWizard",
+    "poopsCount": 1847,
+    "pinColor": "#13ff00",
+    "createdAt": "2023-12-04T18:07:58.832Z",
+    "poops": [
+      {
+        "id": 252921203,
+        "createdAt": "2026-11-03T19:16:56.071Z",
+        "latitude": 51.44399099845825,
+        "longitude": 6.633952483534813,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#13ff00",
+        "place": "",
+        "raing": null,
+        "userId": 5610721
+      }
+    ]
+  },
+  {
+    "id": 6170335,
+    "username": "U gotta go when u gotta go",
+    "poopsCount": 1178,
+    "pinColor": "#00ff0a",
+    "createdAt": "2024-09-01T11:45:58.896Z",
+    "poops": [
+      {
+        "id": 252908611,
+        "createdAt": "2026-11-03T16:39:39.699Z",
+        "latitude": 53.39041500793335,
+        "longitude": -2.58698858320713,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff0a",
+        "place": "gym",
+        "raing": 5,
+        "userId": 6170335
+      }
+    ]
+  },
+  {
+    "id": 7487203,
+    "username": "MERDA MEGALODONTE DE ESPERMA😈🫦",
+    "poopsCount": 2,
+    "pinColor": null,
+    "createdAt": "2026-11-03T19:51:21.557Z",
+    "poops": [
+      {
+        "id": 252924143,
+        "createdAt": "2026-11-03T19:55:51.336Z",
+        "latitude": -13.34066283183771,
+        "longitude": -59.62451733648777,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 7487203
+      }
+    ]
+  },
+  {
+    "id": 7484131,
+    "username": "Misspooped666",
+    "poopsCount": 5,
+    "pinColor": "#D81B60",
+    "createdAt": "2026-10-30T20:12:41.590Z",
+    "poops": [
+      {
+        "id": 252913347,
+        "createdAt": "2026-11-03T17:34:39.132Z",
+        "latitude": 46.21261703828043,
+        "longitude": -1.165602877736092,
+        "isAirplane": 0,
+        "note": "J'AI OUBLIÉ DE NOTER MON KAKA DE RENTRÉE DE COURS !!\nHeureusement j'ai toujours cette douce sensation après avoir exposé mes jolies petites fesses à l'eau des toilettes 😌\nCe fut donc un moment de relâchement intense bien mérité après une longue journée aussi dure que ce que j'ai pu lâcher 🪻\n\nA retenir que l'eau des chiottes est venue titiller mon postérieur, ce qui est grisant.",
+        "pinColor": "#D81B60",
+        "place": "Modern toilets 🪞",
+        "raing": 4,
+        "userId": 7484131
+      }
+    ]
+  },
+  {
+    "id": 5407459,
+    "username": "zoukinho",
+    "poopsCount": 937,
+    "pinColor": "#ff6e00",
+    "createdAt": "2023-08-05T22:16:39.142Z",
+    "poops": [
+      {
+        "id": 252912662,
+        "createdAt": "2026-11-03T17:27:36.844Z",
+        "latitude": 46.13050899104314,
+        "longitude": 3.434972651302814,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff6e00",
+        "place": "casa",
+        "raing": 4,
+        "userId": 5407459
+      }
+    ]
+  },
+  {
+    "id": 540899,
+    "username": "poobrey.warren",
+    "poopsCount": 873,
+    "pinColor": "#43a047",
+    "createdAt": "2020-03-02T20:47:13.567Z",
+    "poops": [
+      {
+        "id": 252912123,
+        "createdAt": "2026-11-03T17:21:27.308Z",
+        "latitude": 28.04556269402036,
+        "longitude": -82.41445943713188,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#43a047",
+        "place": "apartment",
+        "raing": 3,
+        "userId": 540899
+      }
+    ]
+  },
+  {
+    "id": 4496613,
+    "username": "lunaxoxo",
+    "poopsCount": 1605,
+    "pinColor": "#ff00d6",
+    "createdAt": "2021-11-21T10:15:50.690Z",
+    "poops": [
+      {
+        "id": 252903710,
+        "createdAt": "2026-11-03T15:35:00.000Z",
+        "latitude": 40.32585747222709,
+        "longitude": -74.32673458009958,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff00d6",
+        "place": "Home",
+        "raing": 5,
+        "userId": 4496613
+      }
+    ]
+  },
+  {
+    "id": 7253736,
+    "username": "JoshTheFarmer",
+    "poopsCount": 348,
+    "pinColor": "#0c00ff",
+    "createdAt": "2026-04-09T23:57:29.893Z",
+    "poops": [
+      {
+        "id": 252904648,
+        "createdAt": "2026-11-03T15:53:19.939Z",
+        "latitude": 33.04581274397066,
+        "longitude": -96.56781993806362,
+        "isAirplane": 0,
+        "note": "single pebble",
+        "pinColor": "#0c00ff",
+        "place": "Kim’s Apartment",
+        "raing": 3,
+        "userId": 7253736
+      }
+    ]
+  },
+  {
+    "id": 6838505,
+    "username": "poopipookie94",
+    "poopsCount": 523,
+    "pinColor": "#bb00ff",
+    "createdAt": "2025-03-20T06:16:19.807Z",
+    "poops": [
+      {
+        "id": 252921216,
+        "createdAt": "2026-11-03T19:16:17.860Z",
+        "latitude": 42.85798731092027,
+        "longitude": -76.99733465909958,
+        "isAirplane": 0,
+        "note": "not good news but atleast I didn’t shit myself",
+        "pinColor": "#bb00ff",
+        "place": "fastrac",
+        "raing": 1,
+        "userId": 6838505
+      },
+      {
+        "id": 252910645,
+        "createdAt": "2026-11-03T16:59:29.167Z",
+        "latitude": 42.96298679268338,
+        "longitude": -77.13845238089561,
+        "isAirplane": 0,
+        "note": "not sure what the plan is for the day…might as well poop on the clock.",
+        "pinColor": "#bb00ff",
+        "place": "Mercy East",
+        "raing": 5,
+        "userId": 6838505
+      }
+    ]
+  },
+  {
+    "id": 7087849,
+    "username": "🎀 cutie duties 🎀",
+    "poopsCount": 515,
+    "pinColor": "#ff004f",
+    "createdAt": "2025-09-24T19:41:43.714Z",
+    "poops": [
+      {
+        "id": 252898683,
+        "createdAt": "2026-11-03T14:47:24.750Z",
+        "latitude": 42.22395786043728,
+        "longitude": -89.07313786447048,
+        "isAirplane": 0,
+        "note": "now that I'm thinking about it,  it may have been the butter in my coffee that made me shit myself yesterday 🤔",
+        "pinColor": "#ff004f",
+        "place": "",
+        "raing": null,
+        "userId": 7087849
+      }
+    ]
+  },
+  {
+    "id": 7127276,
+    "username": "BigPoopMontesano",
+    "poopsCount": 601,
+    "pinColor": "#ff9200",
+    "createdAt": "2025-11-19T05:05:24.095Z",
+    "poops": [
+      {
+        "id": 252918932,
+        "createdAt": "2026-11-03T18:46:51.004Z",
+        "latitude": 43.14316266251936,
+        "longitude": -77.79262907803059,
+        "isAirplane": 0,
+        "note": "minor aftershock",
+        "pinColor": "#ff9200",
+        "place": "toilet",
+        "raing": 5,
+        "userId": 7127276
+      },
+      {
+        "id": 252897634,
+        "createdAt": "2026-11-03T14:35:40.602Z",
+        "latitude": 43.14315312181859,
+        "longitude": -77.79259655624628,
+        "isAirplane": 0,
+        "note": "unloading",
+        "pinColor": "#ff9200",
+        "place": "toilet",
+        "raing": 5,
+        "userId": 7127276
+      }
+    ]
+  },
+  {
+    "id": 3244271,
+    "username": "poopcultleader",
+    "poopsCount": 4076,
+    "pinColor": "#00ff12",
+    "createdAt": "2021-04-20T15:27:42.092Z",
+    "poops": [
+      {
+        "id": 252922042,
+        "createdAt": "2026-11-03T19:27:16.711Z",
+        "latitude": 37.34648671502693,
+        "longitude": -78.8254089653492,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff12",
+        "place": "work",
+        "raing": 1,
+        "userId": 3244271
+      },
+      {
+        "id": 252894869,
+        "createdAt": "2026-11-03T14:05:15.629Z",
+        "latitude": 37.3466013264239,
+        "longitude": -78.82538113743067,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff12",
+        "place": "work",
+        "raing": 1,
+        "userId": 3244271
+      }
+    ]
+  },
+  {
+    "id": 7311087,
+    "username": "MikeHoncho67",
+    "poopsCount": 93,
+    "pinColor": null,
+    "createdAt": "2026-07-12T01:07:17.463Z",
+    "poops": [
+      {
+        "id": 252924285,
+        "createdAt": "2026-11-03T19:57:33.358Z",
+        "latitude": 34.90768331892645,
+        "longitude": -82.0936119183898,
+        "isAirplane": 0,
+        "note": "Yikes this one smells RANK",
+        "pinColor": null,
+        "place": "Work",
+        "raing": 2,
+        "userId": 7311087
+      }
+    ]
+  },
+  {
+    "id": 4493041,
+    "username": "poopymcbootypants",
+    "poopsCount": 697,
+    "pinColor": null,
+    "createdAt": "2021-11-19T20:11:37.650Z",
+    "poops": [
+      {
+        "id": 252924169,
+        "createdAt": "2026-11-03T19:56:15.103Z",
+        "latitude": 40.4510984359944,
+        "longitude": -79.95074450969696,
+        "isAirplane": 0,
+        "note": "and I’m back",
+        "pinColor": null,
+        "place": "crib",
+        "raing": 3,
+        "userId": 4493041
+      }
+    ]
+  },
+  {
+    "id": 5390066,
+    "username": "KingOfSpice",
+    "poopsCount": 438,
+    "pinColor": "#00ff2f",
+    "createdAt": "2023-07-22T19:16:51.984Z",
+    "poops": [
+      {
+        "id": 252924365,
+        "createdAt": "2026-11-03T19:58:55.419Z",
+        "latitude": 37.09990546199866,
+        "longitude": -76.4065258204937,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff2f",
+        "place": "",
+        "raing": null,
+        "userId": 5390066
+      },
+      {
+        "id": 252918872,
+        "createdAt": "2026-11-03T18:46:34.574Z",
+        "latitude": 37.09990546199866,
+        "longitude": -76.4065258204937,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff2f",
+        "place": "",
+        "raing": null,
+        "userId": 5390066
+      }
+    ]
+  },
+  {
+    "id": 4505330,
+    "username": "poepsnoepjex3",
+    "poopsCount": 1088,
+    "pinColor": "#43A047",
+    "createdAt": "2021-11-25T21:58:41.707Z",
+    "poops": [
+      {
+        "id": 252913705,
+        "createdAt": "2026-11-03T17:40:00.092Z",
+        "latitude": 51.02954371942351,
+        "longitude": 4.496981240808964,
+        "isAirplane": 0,
+        "note": "ik op de wc want ik heb pijn in mijn buik",
+        "pinColor": "#43A047",
+        "place": "thuis",
+        "raing": 1,
+        "userId": 4505330
+      },
+      {
+        "id": 252898431,
+        "createdAt": "2026-11-03T11:44:00.000Z",
+        "latitude": 51.03166852429008,
+        "longitude": 4.504053220152855,
+        "isAirplane": 0,
+        "note": "was echt geen toffe kak",
+        "pinColor": "#43A047",
+        "place": "Willekom",
+        "raing": 1,
+        "userId": 4505330
+      }
+    ]
+  },
+  {
+    "id": 358128,
+    "username": "princess poopy pants",
+    "poopsCount": 497,
+    "pinColor": "#ff00ff",
+    "createdAt": "2020-02-13T17:28:46.543Z",
+    "poops": [
+      {
+        "id": 252906205,
+        "createdAt": "2026-11-03T16:11:01.819Z",
+        "latitude": 39.36875321867848,
+        "longitude": -77.4098838865757,
+        "isAirplane": 0,
+        "note": "randomly on my period even though I shouldn’t be???",
+        "pinColor": "#ff00ff",
+        "place": "office",
+        "raing": 4,
+        "userId": 358128
+      }
+    ]
+  },
+  {
+    "id": 6951154,
+    "username": "phillymontgo",
+    "poopsCount": 463,
+    "pinColor": "#00ff75",
+    "createdAt": "2025-05-17T04:12:31.148Z",
+    "poops": [
+      {
+        "id": 252901854,
+        "createdAt": "2026-11-03T15:23:09.190Z",
+        "latitude": 36.88305841372302,
+        "longitude": -76.02950245141983,
+        "isAirplane": 0,
+        "note": "yikes!",
+        "pinColor": "#00ff75",
+        "place": "",
+        "raing": null,
+        "userId": 6951154
+      }
+    ]
+  },
+  {
+    "id": 4568822,
+    "username": "partypoopingpossum",
+    "poopsCount": 6277,
+    "pinColor": "#9e00ff",
+    "createdAt": "2021-12-30T19:42:05.392Z",
+    "poops": [
+      {
+        "id": 252895811,
+        "createdAt": "2026-11-03T14:15:52.120Z",
+        "latitude": 40.49897647859284,
+        "longitude": -112.0508017390966,
+        "isAirplane": 0,
+        "note": null,
+        "pinColor": "#9e00ff",
+        "place": "",
+        "raing": null,
+        "userId": 4568822
+      }
+    ]
+  },
+  {
+    "id": 4622075,
+    "username": "SpicySicilianShits",
+    "poopsCount": 597,
+    "pinColor": "#00ff10",
+    "createdAt": "2022-01-24T16:10:53.166Z",
+    "poops": [
+      {
+        "id": 252922613,
+        "createdAt": "2026-11-03T19:34:25.546Z",
+        "latitude": 42.43738615263866,
+        "longitude": -88.30539744347332,
+        "isAirplane": 0,
+        "note": "man the juices are flowing today, definitely feeling the chili crisp",
+        "pinColor": "#00ff10",
+        "place": "",
+        "raing": 4,
+        "userId": 4622075
+      },
+      {
+        "id": 252905304,
+        "createdAt": "2026-11-03T16:00:15.604Z",
+        "latitude": 42.43738640007754,
+        "longitude": -88.30547858029604,
+        "isAirplane": 0,
+        "note": "🦐🌶️",
+        "pinColor": "#00ff10",
+        "place": "",
+        "raing": 4,
+        "userId": 4622075
+      }
+    ]
+  },
+  {
+    "id": 7478523,
+    "username": "QueenTurd34",
+    "poopsCount": 23,
+    "pinColor": null,
+    "createdAt": "2026-10-23T18:02:24.268Z",
+    "poops": [
+      {
+        "id": 252924153,
+        "createdAt": "2026-11-03T19:55:34.971Z",
+        "latitude": 37.34027558185326,
+        "longitude": -85.36355596035719,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "Lowe’s",
+        "raing": 1,
+        "userId": 7478523
+      }
+    ]
+  },
+  {
+    "id": 6586624,
+    "username": "bheuria",
+    "poopsCount": 133,
+    "pinColor": null,
+    "createdAt": "2024-12-26T15:24:37.640Z",
+    "poops": [
+      {
+        "id": 252924149,
+        "createdAt": "2026-11-03T19:55:20.023Z",
+        "latitude": -36.84173680729101,
+        "longitude": 175.8087929338217,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "camp poop",
+        "raing": 4,
+        "userId": 6586624
+      }
+    ]
+  },
+  {
+    "id": 4585216,
+    "username": "GravyBumBrett",
+    "poopsCount": 3819,
+    "pinColor": "#00ff03",
+    "createdAt": "2022-01-07T02:49:36.659Z",
+    "poops": [
+      {
+        "id": 252913336,
+        "createdAt": "2026-11-03T17:36:07.678Z",
+        "latitude": 43.92851428898982,
+        "longitude": -79.99056424945593,
+        "isAirplane": 0,
+        "note": "hellloooooi",
+        "pinColor": "#00ff03",
+        "place": "home",
+        "raing": null,
+        "userId": 4585216
+      }
+    ]
+  },
+  {
+    "id": 7294720,
+    "username": "Brayan❤️🤍⚜️",
+    "poopsCount": 263,
+    "pinColor": "#1900ff",
+    "createdAt": "2026-06-11T18:40:10.638Z",
+    "poops": [
+      {
+        "id": 252910589,
+        "createdAt": "2026-11-03T17:02:37.740Z",
+        "latitude": 49.85835717451922,
+        "longitude": 3.304049335420132,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#1900ff",
+        "place": "",
+        "raing": 4,
+        "userId": 7294720
+      }
+    ]
+  },
+  {
+    "id": 7290112,
+    "username": "CacaMaca67",
+    "poopsCount": 162,
+    "pinColor": "#d81b60",
+    "createdAt": "2026-06-03T15:12:28.819Z",
+    "poops": [
+      {
+        "id": 252909539,
+        "createdAt": "2026-11-03T16:50:35.039Z",
+        "latitude": 52.16284835518596,
+        "longitude": 21.03947449475527,
+        "isAirplane": 0,
+        "note": "nowe emotki jakieś bonjour",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": 4,
+        "userId": 7290112
+      }
+    ]
+  },
+  {
+    "id": 6409477,
+    "username": "starbucksmakesmep00p",
+    "poopsCount": 169,
+    "pinColor": "#ff00fa",
+    "createdAt": "2024-11-09T19:48:53.026Z",
+    "poops": [
+      {
+        "id": 252914279,
+        "createdAt": "2026-11-03T17:47:17.377Z",
+        "latitude": 32.70223555451643,
+        "longitude": -97.62211818248032,
+        "isAirplane": 0,
+        "note": "okay def will be back for a part 2 later I just didn’t want to sit there for the next 3 hours",
+        "pinColor": "#ff00fa",
+        "place": "Lauren’s Room",
+        "raing": 2,
+        "userId": 6409477
+      }
+    ]
+  },
+  {
+    "id": 5482246,
+    "username": "räuber",
+    "poopsCount": 2135,
+    "pinColor": "#ff0012",
+    "createdAt": "2023-09-30T14:23:18.588Z",
+    "poops": [
+      {
+        "id": 252918377,
+        "createdAt": "2026-11-03T18:39:54.353Z",
+        "latitude": 53.52222188130958,
+        "longitude": 9.208024218678474,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff0012",
+        "place": "Home",
+        "raing": 1,
+        "userId": 5482246
+      },
+      {
+        "id": 252913992,
+        "createdAt": "2026-11-03T17:44:14.204Z",
+        "latitude": 53.52222048603223,
+        "longitude": 9.207994379103184,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff0012",
+        "place": "Home",
+        "raing": 5,
+        "userId": 5482246
+      },
+      {
+        "id": 252904128,
+        "createdAt": "2026-11-03T15:48:20.516Z",
+        "latitude": 53.52223463812913,
+        "longitude": 9.20800443738699,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff0012",
+        "place": "Home",
+        "raing": 5,
+        "userId": 5482246
+      },
+      {
+        "id": 252895276,
+        "createdAt": "2026-11-03T14:09:02.341Z",
+        "latitude": 53.52222108400823,
+        "longitude": 9.208013154566288,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff0012",
+        "place": "Home",
+        "raing": 5,
+        "userId": 5482246
+      }
+    ]
+  },
+  {
+    "id": 1925894,
+    "username": "Lola_Logs",
+    "poopsCount": 199,
+    "pinColor": "#00ff3b",
+    "createdAt": "2021-02-23T04:03:59.021Z",
+    "poops": [
+      {
+        "id": 252912549,
+        "createdAt": "2026-11-03T17:26:55.106Z",
+        "latitude": 38.79757593399414,
+        "longitude": -90.72990953922272,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff3b",
+        "place": "",
+        "raing": null,
+        "userId": 1925894
+      }
+    ]
+  },
+  {
+    "id": 2461446,
+    "username": "jjb0894",
+    "poopsCount": 2242,
+    "pinColor": "#25ff00",
+    "createdAt": "2021-03-03T18:06:01.689Z",
+    "poops": [
+      {
+        "id": 252906087,
+        "createdAt": "2026-11-03T16:09:57.452Z",
+        "latitude": 34.97914318112631,
+        "longitude": -79.21806693077087,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#25ff00",
+        "place": "Work",
+        "raing": null,
+        "userId": 2461446
+      }
+    ]
+  },
+  {
+    "id": 5920520,
+    "username": "Chiue13200",
+    "poopsCount": 688,
+    "pinColor": "#ff8e00",
+    "createdAt": "2024-05-30T19:51:27.241Z",
+    "poops": [
+      {
+        "id": 252903652,
+        "createdAt": "2026-11-03T15:43:17.359Z",
+        "latitude": 23.03818023524039,
+        "longitude": 120.2011799812317,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff8e00",
+        "place": "",
+        "raing": 5,
+        "userId": 5920520
+      }
+    ]
+  },
+  {
+    "id": 6634762,
+    "username": "PorcelainPatch",
+    "poopsCount": 1115,
+    "pinColor": "#ff2100",
+    "createdAt": "2025-01-01T13:40:32.920Z",
+    "poops": [
+      {
+        "id": 252915547,
+        "createdAt": "2026-11-03T18:04:37.667Z",
+        "latitude": 52.03747556630663,
+        "longitude": -0.3570207953453064,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff2100",
+        "place": "",
+        "raing": 4,
+        "userId": 6634762
+      }
+    ]
+  },
+  {
+    "id": 7165196,
+    "username": "shibbledibble",
+    "poopsCount": 525,
+    "pinColor": "#ff005f",
+    "createdAt": "2026-01-01T16:50:37.798Z",
+    "poops": [
+      {
+        "id": 252913269,
+        "createdAt": "2026-11-03T17:35:15.578Z",
+        "latitude": 40.80635567980633,
+        "longitude": -77.86315843462944,
+        "isAirplane": 0,
+        "note": "excited for the new hunger games will any of you go with me",
+        "pinColor": "#ff005f",
+        "place": "dorm",
+        "raing": 3,
+        "userId": 7165196
+      },
+      {
+        "id": 252912436,
+        "createdAt": "2026-11-03T17:25:21.554Z",
+        "latitude": 40.80626711120179,
+        "longitude": -77.86317519843578,
+        "isAirplane": 0,
+        "note": "from earlier",
+        "pinColor": "#ff005f",
+        "place": "dorm",
+        "raing": 2,
+        "userId": 7165196
+      }
+    ]
+  },
+  {
+    "id": 7484176,
+    "username": "Tibo fé popo",
+    "poopsCount": 12,
+    "pinColor": "#795548",
+    "createdAt": "2026-10-30T21:13:13.795Z",
+    "poops": [
+      {
+        "id": 252924032,
+        "createdAt": "2026-11-03T19:53:33.628Z",
+        "latitude": 47.22466871473726,
+        "longitude": -1.552846468985081,
+        "isAirplane": 0,
+        "note": "pipi qui se transforme en micro caca, une toute petite crotte d’environ 2cm même pas de trace sur le trou des fesses, un sacré gain de papier",
+        "pinColor": "#795548",
+        "place": "maison",
+        "raing": 5,
+        "userId": 7484176
+      },
+      {
+        "id": 252908657,
+        "createdAt": "2026-11-03T16:39:33.037Z",
+        "latitude": 47.22469080110029,
+        "longitude": -1.552783101797104,
+        "isAirplane": 0,
+        "note": "petit caca de fin de journée xD",
+        "pinColor": "#795548",
+        "place": "maison",
+        "raing": 5,
+        "userId": 7484176
+      }
+    ]
+  },
+  {
+    "id": 6211856,
+    "username": "KingPooperEvery5Munites",
+    "poopsCount": 2936,
+    "pinColor": "#8E24AA",
+    "createdAt": "2024-09-17T23:57:14.302Z",
+    "poops": [
+      {
+        "id": 252908472,
+        "createdAt": "2026-11-03T16:36:44.181Z",
+        "latitude": -6.959409067951537,
+        "longitude": 107.6620627194643,
+        "isAirplane": 0,
+        "note": "i'm not joking the water in mytoilet is turning red once my shit in it #watdatmean",
+        "pinColor": "#8E24AA",
+        "place": "",
+        "raing": 3,
+        "userId": 6211856
+      }
+    ]
+  },
+  {
+    "id": 4497171,
+    "username": "poop kmykaze",
+    "poopsCount": 661,
+    "pinColor": "#d400ff",
+    "createdAt": "2021-11-21T19:38:22.629Z",
+    "poops": [
+      {
+        "id": 252917883,
+        "createdAt": "2026-11-03T18:33:00.000Z",
+        "latitude": 53.42485518694748,
+        "longitude": -2.861227691173553,
+        "isAirplane": 0,
+        "note": "it marks two years since i lost my previous partner to suicide... two years. and somehow, those words still don't feel real\n\ni'm sad, i'm broken, i'm lonely and there are days when i still struggle to comprehend how someone who was once such a big part of my life is no longer here. people often talk about grief as something that gets easier with time but i think some losses simply change you forever. you learn to live with the absence, but that doesn't mean you stop feeling it\n\ntoday i want to talk about something that deserves so much more attention: suicide prevention\n\nbehind every statistic is a person. someone who was loved, someone who mattered, someone whose absence leaves a hole in the lives of people who remain, someone who could still be here. suicide doesn't just take one life, it leaves countless people trying to make sense of a loss that is often impossible to put into words\n\nplease check on the people around you. even the ones who seem happy, the ones who laugh, the ones who say they're fine or the ones you think would never ever end up like this. listen without judgement. make space for difficult conversations. don't dismiss someone's pain or assume that because they seem okay, they are okay\n\nand if you're struggling yourself, please know that you don't have to reach breaking point to deserve help. you are not a burden, your feelings matter, you are valid and and there is no shame in asking someone to stay or help you find support at any time you feel like you need it\n\ni wish things had been different. i wish this anniversary was just another ordinary day. i wish there were more conversations, more awareness, more support and fewer families and friends having to experience this kind of heartbreak\n\ntwo years later, i still miss you and i still love you. and i hope that by speaking about this, even one person might feel less alone and choose to stay!!\n\nfor my American friends, call or text 988 or chat 988lifeline.org. you can also reach Crisis Text Line by texting HOME to 741741, or call 911, or go to the nearest emergency room\n\nfor my UK mates, Samaritans are available 24/7 at 116 123 or text \"SHOUT\" to 85258\n\nwith love,\nKmy",
+        "pinColor": "#d400ff",
+        "place": "Home - 2nd Floor",
+        "raing": 1,
+        "userId": 4497171
+      }
+    ]
+  },
+  {
+    "id": 4935443,
+    "username": "dumbcumbumchum",
+    "poopsCount": 1093,
+    "pinColor": "#8b00ff",
+    "createdAt": "2022-08-09T21:17:21.095Z",
+    "poops": [
+      {
+        "id": 252913217,
+        "createdAt": "2026-11-03T17:34:43.436Z",
+        "latitude": 39.21468606225611,
+        "longitude": -76.06575787067413,
+        "isAirplane": 0,
+        "note": "surprise one. lost a nail while wiping",
+        "pinColor": "#8b00ff",
+        "place": "cumwell",
+        "raing": 2,
+        "userId": 4935443
+      },
+      {
+        "id": 252900995,
+        "createdAt": "2026-11-03T15:10:42.251Z",
+        "latitude": 39.21804423760578,
+        "longitude": -76.06806557625532,
+        "isAirplane": 0,
+        "note": "almost clogged the toilet…",
+        "pinColor": "#8b00ff",
+        "place": "hodson first floor",
+        "raing": 2,
+        "userId": 4935443
+      }
+    ]
+  },
+  {
+    "id": 5575956,
+    "username": "Thebestbertha",
+    "poopsCount": 354,
+    "pinColor": "#ff6d00",
+    "createdAt": "2023-11-30T07:53:05.194Z",
+    "poops": [
+      {
+        "id": 252906583,
+        "createdAt": "2026-11-03T16:15:20.692Z",
+        "latitude": 42.70091807056837,
+        "longitude": 23.30223329365253,
+        "isAirplane": 0,
+        "note": "veel",
+        "pinColor": "#ff6d00",
+        "place": "hotel",
+        "raing": 5,
+        "userId": 5575956
+      }
+    ]
+  },
+  {
+    "id": 3996436,
+    "username": "𝐢𝐛𝐬𝐡𝐢𝐭𝐭𝐢𝐧𝐠",
+    "poopsCount": 1365,
+    "pinColor": "#1eff00",
+    "createdAt": "2021-07-22T11:51:55.203Z",
+    "poops": [
+      {
+        "id": 252904501,
+        "createdAt": "2026-11-03T15:38:19.780Z",
+        "latitude": 49.26673560038655,
+        "longitude": -123.0021494999528,
+        "isAirplane": 0,
+        "note": "got a mcgriddle before leaving",
+        "pinColor": "#1eff00",
+        "place": "shit stop @ mcdonalds",
+        "raing": 3,
+        "userId": 3996436
+      },
+      {
+        "id": 252899387,
+        "createdAt": "2026-11-03T14:55:22.562Z",
+        "latitude": 49.26317656861608,
+        "longitude": -122.9165890440345,
+        "isAirplane": 0,
+        "note": "quick shart before leaving",
+        "pinColor": "#1eff00",
+        "place": "shart!",
+        "raing": 2,
+        "userId": 3996436
+      },
+      {
+        "id": 252899324,
+        "createdAt": "2026-11-03T04:55:50.424Z",
+        "latitude": 49.26317744380142,
+        "longitude": -122.9165980964899,
+        "isAirplane": 0,
+        "note": "made it home time to work",
+        "pinColor": "#1eff00",
+        "place": "home sweet home",
+        "raing": 3,
+        "userId": 3996436
+      },
+      {
+        "id": 252896435,
+        "createdAt": "2026-11-03T14:18:12.738Z",
+        "latitude": 49.26315928370187,
+        "longitude": -122.9166084900499,
+        "isAirplane": 0,
+        "note": "yesterday, I did deplete the TP while doing my morning poo. no one refilled the TP yesterday (and I definitely won't be before I leave today) so it's a paper towel wipe.",
+        "pinColor": "#1eff00",
+        "place": "paper towel wipe",
+        "raing": 2,
+        "userId": 3996436
+      }
+    ]
+  },
+  {
+    "id": 6748438,
+    "username": "jules_shakiraslay",
+    "poopsCount": 892,
+    "pinColor": "#fffe00",
+    "createdAt": "2025-01-25T19:02:22.639Z",
+    "poops": [
+      {
+        "id": 252900341,
+        "createdAt": "2026-11-03T15:05:24.283Z",
+        "latitude": 49.20790350594167,
+        "longitude": 2.585679329931736,
+        "isAirplane": 0,
+        "note": null,
+        "pinColor": "#fffe00",
+        "place": "",
+        "raing": null,
+        "userId": 6748438
+      }
+    ]
+  },
+  {
+    "id": 4302618,
+    "username": "pooopman42069",
+    "poopsCount": 1658,
+    "pinColor": "#16ff00",
+    "createdAt": "2021-10-10T04:08:56.424Z",
+    "poops": [
+      {
+        "id": 252909335,
+        "createdAt": "2026-11-03T16:41:35.697Z",
+        "latitude": 45.42915473304296,
+        "longitude": -122.7050046622753,
+        "isAirplane": 0,
+        "note": "i sat down and everything happened, gotta work harder for the next ones. a single sharp pain in upper abdomen has gone away",
+        "pinColor": "#16ff00",
+        "place": "boy house",
+        "raing": 4,
+        "userId": 4302618
+      }
+    ]
+  },
+  {
+    "id": 1312538,
+    "username": "Brick's bricks",
+    "poopsCount": 227,
+    "pinColor": "#16ff00",
+    "createdAt": "2021-01-18T16:57:45.768Z",
+    "poops": [
+      {
+        "id": 252905421,
+        "createdAt": "2026-11-03T15:57:43.923Z",
+        "latitude": 38.82433505772711,
+        "longitude": -77.01364718377589,
+        "isAirplane": 0,
+        "note": "after a weekend of drinking I always don’t poop for a day or two… hmmm",
+        "pinColor": "#16ff00",
+        "place": "BridgePoop - National Pooper",
+        "raing": 3,
+        "userId": 1312538
+      }
+    ]
+  },
+  {
+    "id": 5148957,
+    "username": "FlatulenceFanatic",
+    "poopsCount": 1514,
+    "pinColor": "#c000ff",
+    "createdAt": "2023-01-08T12:47:07.590Z",
+    "poops": [
+      {
+        "id": 252917156,
+        "createdAt": "2026-11-03T18:23:46.955Z",
+        "latitude": 45.48646808018,
+        "longitude": -122.7272971719504,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#c000ff",
+        "place": "",
+        "raing": 3,
+        "userId": 5148957
+      },
+      {
+        "id": 252917148,
+        "createdAt": "2026-11-02T18:23:39.238Z",
+        "latitude": 45.48645914810392,
+        "longitude": -122.7272666618228,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#c000ff",
+        "place": "",
+        "raing": 3,
+        "userId": 5148957
+      },
+      {
+        "id": 252917130,
+        "createdAt": "2026-11-01T18:23:28.579Z",
+        "latitude": 45.48645726766668,
+        "longitude": -122.7272237464786,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#c000ff",
+        "place": "",
+        "raing": 2,
+        "userId": 5148957
+      },
+      {
+        "id": 252917117,
+        "createdAt": "2026-10-31T17:23:15.735Z",
+        "latitude": 45.48649064541854,
+        "longitude": -122.7273270115256,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#c000ff",
+        "place": "",
+        "raing": 3,
+        "userId": 5148957
+      }
+    ]
+  },
+  {
+    "id": 6104352,
+    "username": "helenaagoomez_",
+    "poopsCount": 969,
+    "pinColor": "#9b00ff",
+    "createdAt": "2024-08-10T14:17:42.610Z",
+    "poops": [
+      {
+        "id": 252915410,
+        "createdAt": "2026-11-03T18:03:01.442Z",
+        "latitude": 41.42232531651466,
+        "longitude": 1.947010159492493,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#9b00ff",
+        "place": "",
+        "raing": 5,
+        "userId": 6104352
+      }
+    ]
+  },
+  {
+    "id": 5974824,
+    "username": "elisabot",
+    "poopsCount": 488,
+    "pinColor": "#2c00ff",
+    "createdAt": "2024-07-02T10:35:03.937Z",
+    "poops": [
+      {
+        "id": 252909922,
+        "createdAt": "2026-11-03T16:54:38.946Z",
+        "latitude": 67.2819712375039,
+        "longitude": 14.37436647713184,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#2c00ff",
+        "place": "radisson",
+        "raing": 4,
+        "userId": 5974824
+      }
+    ]
+  },
+  {
+    "id": 6176041,
+    "username": "Jason Flegeance",
+    "poopsCount": 1664,
+    "pinColor": null,
+    "createdAt": "2024-09-04T14:41:13.721Z",
+    "poops": [
+      {
+        "id": 252924442,
+        "createdAt": "2026-11-03T19:59:49.880Z",
+        "latitude": 43.26176769127355,
+        "longitude": -93.64047411829232,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 3,
+        "userId": 6176041
+      }
+    ]
+  },
+  {
+    "id": 7174954,
+    "username": "h3ll0sh1tty",
+    "poopsCount": 192,
+    "pinColor": null,
+    "createdAt": "2026-01-04T17:03:45.062Z",
+    "poops": [
+      {
+        "id": 252924407,
+        "createdAt": "2026-11-03T19:59:22.052Z",
+        "latitude": 32.29992009504199,
+        "longitude": -90.21080452948809,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 5,
+        "userId": 7174954
+      }
+    ]
+  },
+  {
+    "id": 5825321,
+    "username": "rakatchoow",
+    "poopsCount": 1145,
+    "pinColor": "#00cfff",
+    "createdAt": "2024-03-22T02:15:57.516Z",
+    "poops": [
+      {
+        "id": 252914109,
+        "createdAt": "2026-11-03T17:46:28.027Z",
+        "latitude": 40.74232884995042,
+        "longitude": -73.99529870599508,
+        "isAirplane": 0,
+        "note": "small",
+        "pinColor": "#00cfff",
+        "place": "7th floor",
+        "raing": 3,
+        "userId": 5825321
+      },
+      {
+        "id": 252904225,
+        "createdAt": "2026-11-03T15:48:52.051Z",
+        "latitude": 40.74230141548741,
+        "longitude": -73.99489168077707,
+        "isAirplane": 0,
+        "note": "my color theory homework sucked i need to die",
+        "pinColor": "#00cfff",
+        "place": "7th floor",
+        "raing": 3,
+        "userId": 5825321
+      }
+    ]
+  },
+  {
+    "id": 1207081,
+    "username": "ShitsFlan",
+    "poopsCount": 983,
+    "pinColor": "#ff0005",
+    "createdAt": "2020-11-20T04:52:07.719Z",
+    "poops": [
+      {
+        "id": 252913827,
+        "createdAt": "2026-11-03T17:42:13.990Z",
+        "latitude": 34.22259165447762,
+        "longitude": -119.0623160451651,
+        "isAirplane": 0,
+        "note": "a lotta pee",
+        "pinColor": "#ff0005",
+        "place": "post-coffee",
+        "raing": 0,
+        "userId": 1207081
+      }
+    ]
+  },
+  {
+    "id": 6173484,
+    "username": "equaglino",
+    "poopsCount": 1172,
+    "pinColor": "#ff3c00",
+    "createdAt": "2024-09-03T01:00:58.510Z",
+    "poops": [
+      {
+        "id": 252910886,
+        "createdAt": "2026-11-03T17:06:23.870Z",
+        "latitude": 32.53078822160944,
+        "longitude": -92.07505043596029,
+        "isAirplane": 0,
+        "note": "Lame",
+        "pinColor": "#ff3c00",
+        "place": "Ouatchita",
+        "raing": 2,
+        "userId": 6173484
+      }
+    ]
+  },
+  {
+    "id": 7472431,
+    "username": "Tristyn drops logs",
+    "poopsCount": 50,
+    "pinColor": null,
+    "createdAt": "2026-10-14T22:41:57.705Z",
+    "poops": [
+      {
+        "id": 252924225,
+        "createdAt": "2026-11-03T18:56:00.000Z",
+        "latitude": 51.7086775652493,
+        "longitude": -113.2677679136396,
+        "isAirplane": 0,
+        "note": "2nd times the charm",
+        "pinColor": null,
+        "place": "",
+        "raing": 3,
+        "userId": 7472431
+      }
+    ]
+  },
+  {
+    "id": 5687600,
+    "username": "prof.poopy.pants",
+    "poopsCount": 2679,
+    "pinColor": "#ff00f5",
+    "createdAt": "2024-01-04T06:04:33.764Z",
+    "poops": [
+      {
+        "id": 252924115,
+        "createdAt": "2026-11-03T19:55:37.590Z",
+        "latitude": 42.54826692711147,
+        "longitude": -70.88320601731539,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff00f5",
+        "place": "",
+        "raing": null,
+        "userId": 5687600
+      }
+    ]
+  },
+  {
+    "id": 6661942,
+    "username": "Petdedinosaur",
+    "poopsCount": 200,
+    "pinColor": null,
+    "createdAt": "2025-01-04T02:43:28.807Z",
+    "poops": [
+      {
+        "id": 252924161,
+        "createdAt": "2026-11-03T19:54:46.434Z",
+        "latitude": 45.62250464777404,
+        "longitude": -75.8292668312788,
+        "isAirplane": 0,
+        "note": "bénévolat ✅",
+        "pinColor": null,
+        "place": "Nath ❤️",
+        "raing": 3,
+        "userId": 6661942
+      }
+    ]
+  },
+  {
+    "id": 247095,
+    "username": "#poowithaview",
+    "poopsCount": 6567,
+    "pinColor": "#007fff",
+    "createdAt": "2020-01-28T17:53:57.660Z",
+    "poops": [
+      {
+        "id": 252922890,
+        "createdAt": "2026-11-03T19:38:27.088Z",
+        "latitude": 48.27089720220711,
+        "longitude": -116.5630323439837,
+        "isAirplane": 0,
+        "note": "Mid-lift. Inconvenient, butt good",
+        "pinColor": "#007fff",
+        "place": "Natural Fitness Sandpoint",
+        "raing": 3,
+        "userId": 247095
+      },
+      {
+        "id": 252915690,
+        "createdAt": "2026-11-03T18:05:13.597Z",
+        "latitude": 48.27089430108828,
+        "longitude": -116.5630367025733,
+        "isAirplane": 0,
+        "note": "POOP MAP HAS VIDEOS!!\n\n15 second limit silent videos, with no option to attach existing video...still super cool",
+        "pinColor": "#007fff",
+        "place": "Natural Fitness Sandpoint",
+        "raing": 4,
+        "userId": 247095
+      },
+      {
+        "id": 252894999,
+        "createdAt": "2026-11-03T14:06:38.710Z",
+        "latitude": 48.36773411839189,
+        "longitude": -116.59129075706,
+        "isAirplane": 0,
+        "note": "Ow",
+        "pinColor": "#007fff",
+        "place": "Hope School",
+        "raing": 2,
+        "userId": 247095
+      }
+    ]
+  },
+  {
+    "id": 5530426,
+    "username": "Cacanosaur rex 🦖",
+    "poopsCount": 1607,
+    "pinColor": "#47ff00",
+    "createdAt": "2023-10-28T17:37:17.536Z",
+    "poops": [
+      {
+        "id": 252900449,
+        "createdAt": "2026-11-03T15:07:51.741Z",
+        "latitude": 46.31632945839974,
+        "longitude": 6.958826333284378,
+        "isAirplane": 0,
+        "note": "caca malade",
+        "pinColor": "#47ff00",
+        "place": "🏠",
+        "raing": 4,
+        "userId": 5530426
+      }
+    ]
+  },
+  {
+    "id": 7477565,
+    "username": "45minutebandit",
+    "poopsCount": 19,
+    "pinColor": "#43a047",
+    "createdAt": "2026-10-22T16:19:47.775Z",
+    "poops": [
+      {
+        "id": 252922118,
+        "createdAt": "2026-11-03T19:28:11.488Z",
+        "latitude": 39.48172129360982,
+        "longitude": -88.40620122849941,
+        "isAirplane": 0,
+        "note": "post chipotle",
+        "pinColor": "#43a047",
+        "place": "home",
+        "raing": 1,
+        "userId": 7477565
+      },
+      {
+        "id": 252911326,
+        "createdAt": "2026-11-03T17:11:03.571Z",
+        "latitude": 39.42137124444048,
+        "longitude": -88.35610728710891,
+        "isAirplane": 0,
+        "note": "post golf poopy, walked 9 holes so had some built up tension",
+        "pinColor": "#43a047",
+        "place": "meadow weiner",
+        "raing": 5,
+        "userId": 7477565
+      }
+    ]
+  },
+  {
+    "id": 6009155,
+    "username": "κλαστρα",
+    "poopsCount": 1239,
+    "pinColor": "#43a047",
+    "createdAt": "2024-07-19T01:12:56.665Z",
+    "poops": [
+      {
+        "id": 252913936,
+        "createdAt": "2026-11-03T17:41:37.581Z",
+        "latitude": 35.51307138811025,
+        "longitude": 24.01223815977573,
+        "isAirplane": 0,
+        "note": "λυπηρό",
+        "pinColor": "#43a047",
+        "place": "σπίτι Ηλία",
+        "raing": 1,
+        "userId": 6009155
+      }
+    ]
+  },
+  {
+    "id": 6748485,
+    "username": "Leellusi0n",
+    "poopsCount": 785,
+    "pinColor": "#ff7600",
+    "createdAt": "2025-01-25T19:15:41.400Z",
+    "poops": [
+      {
+        "id": 252908452,
+        "createdAt": "2026-11-03T16:37:11.845Z",
+        "latitude": 49.20791007718073,
+        "longitude": 2.585664577782154,
+        "isAirplane": 0,
+        "note": "caca pdt que ma meilleure amie me fait une déclaration par msg prcq je lui manque 🥹",
+        "pinColor": "#ff7600",
+        "place": "slay house 🪩",
+        "raing": 5,
+        "userId": 6748485
+      }
+    ]
+  },
+  {
+    "id": 7027014,
+    "username": "kylieeeeee97",
+    "poopsCount": 444,
+    "pinColor": "#8e24aa",
+    "createdAt": "2025-07-24T18:40:39.176Z",
+    "poops": [
+      {
+        "id": 252903136,
+        "createdAt": "2026-11-03T15:36:27.934Z",
+        "latitude": 40.45731366745115,
+        "longitude": -79.92046136409044,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#8e24aa",
+        "place": "home",
+        "raing": 5,
+        "userId": 7027014
+      }
+    ]
+  },
+  {
+    "id": 3288904,
+    "username": "girl.poopies",
+    "poopsCount": 1311,
+    "pinColor": null,
+    "createdAt": "2021-04-22T23:23:34.749Z",
+    "poops": [
+      {
+        "id": 252924404,
+        "createdAt": "2026-11-03T19:58:14.714Z",
+        "latitude": 40.25032799549371,
+        "longitude": -111.6504012420773,
+        "isAirplane": 0,
+        "note": "divine retribution for my misdeeds",
+        "pinColor": null,
+        "place": "jkb 1100s",
+        "raing": 1,
+        "userId": 3288904
+      }
+    ]
+  },
+  {
+    "id": 6839625,
+    "username": "Doochess💩👸",
+    "poopsCount": 503,
+    "pinColor": "#ff0045",
+    "createdAt": "2025-03-20T21:30:01.529Z",
+    "poops": [
+      {
+        "id": 252922197,
+        "createdAt": "2026-11-03T19:28:17.466Z",
+        "latitude": 60.18635636007384,
+        "longitude": 24.91864442825317,
+        "isAirplane": 0,
+        "note": "kakkalla pari papanat täâl haisee jo Katin kakka valmis",
+        "pinColor": "#ff0045",
+        "place": "",
+        "raing": null,
+        "userId": 6839625
+      }
+    ]
+  },
+  {
+    "id": 5404495,
+    "username": "louiedookie",
+    "poopsCount": 524,
+    "pinColor": "#e94335",
+    "createdAt": "2023-08-05T15:57:49.324Z",
+    "poops": [
+      {
+        "id": 252895482,
+        "createdAt": "2026-11-03T14:12:13.384Z",
+        "latitude": 41.02300131340237,
+        "longitude": -95.22508129477502,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#e94335",
+        "place": "",
+        "raing": 5,
+        "userId": 5404495
+      }
+    ]
+  },
+  {
+    "id": 7334737,
+    "username": "ThePoop1230000",
+    "poopsCount": 100,
+    "pinColor": "#fb8c00",
+    "createdAt": "2026-08-16T19:51:50.043Z",
+    "poops": [
+      {
+        "id": 252915855,
+        "createdAt": "2026-11-03T18:08:20.086Z",
+        "latitude": 42.42848761896109,
+        "longitude": -123.0366232618689,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#fb8c00",
+        "place": "",
+        "raing": null,
+        "userId": 7334737
+      },
+      {
+        "id": 252915210,
+        "createdAt": "2026-11-03T17:52:57.293Z",
+        "latitude": 42.42847796747396,
+        "longitude": -123.0366018041968,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#fb8c00",
+        "place": "",
+        "raing": 2,
+        "userId": 7334737
+      }
+    ]
+  },
+  {
+    "id": 6446424,
+    "username": "Veusty93",
+    "poopsCount": 1998,
+    "pinColor": "#b800ff",
+    "createdAt": "2024-11-30T00:22:28.660Z",
+    "poops": [
+      {
+        "id": 252919555,
+        "createdAt": "2026-11-03T18:55:06.484Z",
+        "latitude": 48.87978739495149,
+        "longitude": 2.460634745657444,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#b800ff",
+        "place": "home 2",
+        "raing": null,
+        "userId": 6446424
+      }
+    ]
+  },
+  {
+    "id": 6424921,
+    "username": "cjrpoops",
+    "poopsCount": 702,
+    "pinColor": "#43a047",
+    "createdAt": "2024-11-19T01:23:18.842Z",
+    "poops": [
+      {
+        "id": 252923094,
+        "createdAt": "2026-11-03T19:41:46.519Z",
+        "latitude": 41.81751317094022,
+        "longitude": -72.28013031184673,
+        "isAirplane": 0,
+        "note": "gurgle gurgle",
+        "pinColor": "#43a047",
+        "place": "",
+        "raing": null,
+        "userId": 6424921
+      }
+    ]
+  },
+  {
+    "id": 6627673,
+    "username": "metinkmegwarnpoopmepants",
+    "poopsCount": 1303,
+    "pinColor": "#fffd00",
+    "createdAt": "2024-12-31T22:13:46.494Z",
+    "poops": [
+      {
+        "id": 252922451,
+        "createdAt": "2026-11-03T19:32:40.485Z",
+        "latitude": 31.22433764913754,
+        "longitude": 121.452404800138,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#fffd00",
+        "place": "",
+        "raing": 3,
+        "userId": 6627673
+      }
+    ]
+  },
+  {
+    "id": 6201691,
+    "username": "BatShitBobby",
+    "poopsCount": 1321,
+    "pinColor": null,
+    "createdAt": "2024-09-13T14:34:19.481Z",
+    "poops": [
+      {
+        "id": 252924134,
+        "createdAt": "2026-11-03T19:55:42.701Z",
+        "latitude": 36.08128173272642,
+        "longitude": -79.27529655396938,
+        "isAirplane": 0,
+        "note": "Buffalo chicken :/",
+        "pinColor": null,
+        "place": "",
+        "raing": 3,
+        "userId": 6201691
+      }
+    ]
+  },
+  {
+    "id": 4584795,
+    "username": "_cstar_",
+    "poopsCount": 2104,
+    "pinColor": "#fb8c00",
+    "createdAt": "2022-01-06T23:33:00.129Z",
+    "poops": [
+      {
+        "id": 252919032,
+        "createdAt": "2026-11-03T18:46:13.412Z",
+        "latitude": 41.89775769364455,
+        "longitude": -87.64341417700052,
+        "isAirplane": 0,
+        "note": "i wish i could have a normal color once in a while",
+        "pinColor": "#fb8c00",
+        "place": "job again",
+        "raing": 1,
+        "userId": 4584795
+      },
+      {
+        "id": 252900842,
+        "createdAt": "2026-11-03T15:10:00.207Z",
+        "latitude": 41.89788122505929,
+        "longitude": -87.64351677149534,
+        "isAirplane": 0,
+        "note": "um i can explain",
+        "pinColor": "#fb8c00",
+        "place": "work",
+        "raing": 4,
+        "userId": 4584795
+      }
+    ]
+  },
+  {
+    "id": 2145626,
+    "username": "Heup kucher",
+    "poopsCount": 2985,
+    "pinColor": "#0d00ff",
+    "createdAt": "2021-02-25T15:48:56.048Z",
+    "poops": [
+      {
+        "id": 252917310,
+        "createdAt": "2026-11-03T18:25:15.363Z",
+        "latitude": 51.64518170311545,
+        "longitude": 4.59239948540926,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#0d00ff",
+        "place": "",
+        "raing": 0,
+        "userId": 2145626
+      }
+    ]
+  },
+  {
+    "id": 1793369,
+    "username": "scottstoiletpaper",
+    "poopsCount": 5416,
+    "pinColor": "#ff00fb",
+    "createdAt": "2021-02-22T03:45:26.748Z",
+    "poops": [
+      {
+        "id": 252905184,
+        "createdAt": "2026-11-03T16:00:01.631Z",
+        "latitude": 47.79869080791172,
+        "longitude": -122.3394577950239,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff00fb",
+        "place": "",
+        "raing": null,
+        "userId": 1793369
+      }
+    ]
+  },
+  {
+    "id": 5923678,
+    "username": "Poooptimus Prime",
+    "poopsCount": 1246,
+    "pinColor": "#ff0010",
+    "createdAt": "2024-06-01T22:08:32.751Z",
+    "poops": [
+      {
+        "id": 252902206,
+        "createdAt": "2026-11-03T15:26:34.457Z",
+        "latitude": 36.78355800374842,
+        "longitude": -76.15212433040142,
+        "isAirplane": 0,
+        "note": "phone dying :o(",
+        "pinColor": "#ff0010",
+        "place": "",
+        "raing": 1,
+        "userId": 5923678
+      }
+    ]
+  },
+  {
+    "id": 7485273,
+    "username": "sabubabu",
+    "poopsCount": 5,
+    "pinColor": "#FB8C00",
+    "createdAt": "2026-11-01T10:41:06.566Z",
+    "poops": [
+      {
+        "id": 252900531,
+        "createdAt": "2026-11-03T15:09:01.375Z",
+        "latitude": 23.73912350295619,
+        "longitude": 90.37840571254492,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#FB8C00",
+        "place": "",
+        "raing": null,
+        "userId": 7485273
+      }
+    ]
+  },
+  {
+    "id": 3082593,
+    "username": "holdenmyshittogether",
+    "poopsCount": 724,
+    "pinColor": "#7900ff",
+    "createdAt": "2021-04-03T03:07:49.030Z",
+    "poops": [
+      {
+        "id": 252915167,
+        "createdAt": "2026-11-03T17:59:13.420Z",
+        "latitude": 40.84207750416781,
+        "longitude": -96.6943484544754,
+        "isAirplane": 0,
+        "note": "ready for lunch",
+        "pinColor": "#7900ff",
+        "place": "rev wraps",
+        "raing": 2,
+        "userId": 3082593
+      },
+      {
+        "id": 252905458,
+        "createdAt": "2026-11-03T16:02:16.150Z",
+        "latitude": 40.84208206971309,
+        "longitude": -96.6943833231926,
+        "isAirplane": 0,
+        "note": "bowl blaster",
+        "pinColor": "#7900ff",
+        "place": "rev wraps",
+        "raing": 2,
+        "userId": 3082593
+      }
+    ]
+  },
+  {
+    "id": 6721378,
+    "username": "poopmuncher423",
+    "poopsCount": 813,
+    "pinColor": "#fb00ff",
+    "createdAt": "2025-01-15T20:54:19.555Z",
+    "poops": [
+      {
+        "id": 252914936,
+        "createdAt": "2026-11-03T17:56:32.746Z",
+        "latitude": 42.41875643316496,
+        "longitude": -73.66696279495955,
+        "isAirplane": 0,
+        "note": "my stomach was curdling so bad this morning idk why i didn’t shit earlier but i’m def going to later  and im going to the movies ughh",
+        "pinColor": "#fb00ff",
+        "place": "",
+        "raing": 2,
+        "userId": 6721378
+      }
+    ]
+  },
+  {
+    "id": 6454116,
+    "username": "Audesbrl",
+    "poopsCount": 1430,
+    "pinColor": null,
+    "createdAt": "2024-11-30T13:01:10.639Z",
+    "poops": [
+      {
+        "id": 252924170,
+        "createdAt": "2026-11-03T19:56:18.087Z",
+        "latitude": 44.92029213394414,
+        "longitude": -0.6289458274841309,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 2,
+        "userId": 6454116
+      }
+    ]
+  },
+  {
+    "id": 7310182,
+    "username": "Mdawg1989",
+    "poopsCount": 184,
+    "pinColor": "#00ff6d",
+    "createdAt": "2026-07-10T16:21:14.011Z",
+    "poops": [
+      {
+        "id": 252901412,
+        "createdAt": "2026-11-03T15:18:15.425Z",
+        "latitude": 41.5882049994901,
+        "longitude": -83.55235073715448,
+        "isAirplane": 0,
+        "note": "finally bruh",
+        "pinColor": "#00ff6d",
+        "place": "wurk",
+        "raing": 3,
+        "userId": 7310182
+      }
+    ]
+  },
+  {
+    "id": 4910951,
+    "username": "nonchalantdropper",
+    "poopsCount": 8,
+    "pinColor": "#d81b60",
+    "createdAt": "2022-07-22T20:31:13.149Z",
+    "poops": [
+      {
+        "id": 252916569,
+        "createdAt": "2026-11-03T18:16:48.023Z",
+        "latitude": 40.43920314273333,
+        "longitude": -79.96047589927912,
+        "isAirplane": 0,
+        "note": "pre vote drop",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": 5,
+        "userId": 4910951
+      }
+    ]
+  },
+  {
+    "id": 5510504,
+    "username": "Izzybellypoops:)",
+    "poopsCount": 330,
+    "pinColor": "#ff0092",
+    "createdAt": "2023-10-12T20:30:49.954Z",
+    "poops": [
+      {
+        "id": 252901432,
+        "createdAt": "2026-11-03T15:18:14.717Z",
+        "latitude": 38.6513774293639,
+        "longitude": -77.45247971266508,
+        "isAirplane": 0,
+        "note": "took a while to get it to come out",
+        "pinColor": "#ff0092",
+        "place": "",
+        "raing": 2,
+        "userId": 5510504
+      }
+    ]
+  },
+  {
+    "id": 7231850,
+    "username": "Yaaaaa nus",
+    "poopsCount": 155,
+    "pinColor": "#5000ff",
+    "createdAt": "2026-03-10T22:09:13.470Z",
+    "poops": [
+      {
+        "id": 252919060,
+        "createdAt": "2026-11-02T18:48:22.986Z",
+        "latitude": 43.24284004713352,
+        "longitude": 5.383178070187568,
+        "isAirplane": 0,
+        "note": "il s’était pas mis le filou",
+        "pinColor": "#5000ff",
+        "place": "Mon chez moi",
+        "raing": 4,
+        "userId": 7231850
+      },
+      {
+        "id": 252918920,
+        "createdAt": "2026-11-03T18:45:32.501Z",
+        "latitude": 43.24284004713352,
+        "longitude": 5.383178070187568,
+        "isAirplane": 0,
+        "note": "j’aime tellement les nouveaux emoji mais je préfère quand même faire caca",
+        "pinColor": "#5000ff",
+        "place": "Mon chez moi",
+        "raing": 4,
+        "userId": 7231850
+      }
+    ]
+  },
+  {
+    "id": 6231403,
+    "username": "Hannibal_8666",
+    "poopsCount": 836,
+    "pinColor": "#00ff75",
+    "createdAt": "2024-09-28T18:25:33.964Z",
+    "poops": [
+      {
+        "id": 252920550,
+        "createdAt": "2026-11-03T19:07:47.034Z",
+        "latitude": 29.95492525399467,
+        "longitude": -89.96590442955494,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00ff75",
+        "place": "my 5 star mansion",
+        "raing": 2,
+        "userId": 6231403
+      }
+    ]
+  },
+  {
+    "id": 2850668,
+    "username": "Calypoo Van Dyke",
+    "poopsCount": 171,
+    "pinColor": "#FB8C00",
+    "createdAt": "2021-03-17T18:44:26.640Z",
+    "poops": [
+      {
+        "id": 252900427,
+        "createdAt": "2026-11-03T15:05:14.702Z",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#FB8C00",
+        "place": "",
+        "raing": 4,
+        "userId": 2850668
+      }
+    ]
+  },
+  {
+    "id": 1983853,
+    "username": "peterpi26",
+    "poopsCount": 3928,
+    "pinColor": "#1a00ff",
+    "createdAt": "2021-02-23T19:39:28.445Z",
+    "poops": [
+      {
+        "id": 252923110,
+        "createdAt": "2026-11-03T19:41:43.582Z",
+        "latitude": 32.99412105404339,
+        "longitude": -97.21419408917427,
+        "isAirplane": 0,
+        "note": "was here for a min . freezing today",
+        "pinColor": "#1a00ff",
+        "place": "",
+        "raing": 1,
+        "userId": 1983853
+      },
+      {
+        "id": 252910550,
+        "createdAt": "2026-11-03T17:02:13.729Z",
+        "latitude": 32.99415732947509,
+        "longitude": -97.21400868147613,
+        "isAirplane": 0,
+        "note": "it's a party up in here",
+        "pinColor": "#1a00ff",
+        "place": "",
+        "raing": 3,
+        "userId": 1983853
+      }
+    ]
+  },
+  {
+    "id": 6802285,
+    "username": "angelict",
+    "poopsCount": 824,
+    "pinColor": "#cc00ff",
+    "createdAt": "2025-02-24T22:48:41.774Z",
+    "poops": [
+      {
+        "id": 252916105,
+        "createdAt": "2026-11-03T18:11:26.209Z",
+        "latitude": 40.73453370504024,
+        "longitude": -73.89841228723526,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#cc00ff",
+        "place": "",
+        "raing": null,
+        "userId": 6802285
+      },
+      {
+        "id": 252907981,
+        "createdAt": "2026-11-03T16:29:23.678Z",
+        "latitude": 40.7344496136024,
+        "longitude": -73.8980307430029,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#cc00ff",
+        "place": "",
+        "raing": null,
+        "userId": 6802285
+      },
+      {
+        "id": 252907683,
+        "createdAt": "2026-11-03T04:45:00.000Z",
+        "latitude": 40.7344496136024,
+        "longitude": -73.89803107827902,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#cc00ff",
+        "place": "",
+        "raing": null,
+        "userId": 6802285
+      }
+    ]
+  },
+  {
+    "id": 7178096,
+    "username": "mimi.vlrd",
+    "poopsCount": 111,
+    "pinColor": null,
+    "createdAt": "2026-01-06T18:18:54.602Z",
+    "poops": [
+      {
+        "id": 252924292,
+        "createdAt": "2026-11-03T19:57:33.065Z",
+        "latitude": 43.45233012962225,
+        "longitude": 5.563833229243755,
+        "isAirplane": 0,
+        "note": "ok très bien",
+        "pinColor": null,
+        "place": "",
+        "raing": 4,
+        "userId": 7178096
+      }
+    ]
+  },
+  {
+    "id": 6369139,
+    "username": "Lbmonk",
+    "poopsCount": 1132,
+    "pinColor": "#1100ff",
+    "createdAt": "2024-10-19T00:05:32.182Z",
+    "poops": [
+      {
+        "id": 252909352,
+        "createdAt": "2026-11-03T16:47:13.388Z",
+        "latitude": 35.78561730295886,
+        "longitude": -78.66728737950325,
+        "isAirplane": 0,
+        "note": "Giggle Shit Literally",
+        "pinColor": "#1100ff",
+        "place": "NC State",
+        "raing": 5,
+        "userId": 6369139
+      }
+    ]
+  },
+  {
+    "id": 2624372,
+    "username": "Shredme",
+    "poopsCount": 1540,
+    "pinColor": "#0bff00",
+    "createdAt": "2021-03-07T22:07:10.143Z",
+    "poops": [
+      {
+        "id": 252924002,
+        "createdAt": "2026-11-03T19:54:02.177Z",
+        "latitude": 42.833540750593,
+        "longitude": -108.7374779954553,
+        "isAirplane": 0,
+        "note": "home for a day. F work im building garage rafters and storage",
+        "pinColor": "#0bff00",
+        "place": "froth manor",
+        "raing": null,
+        "userId": 2624372
+      }
+    ]
+  },
+  {
+    "id": 5269879,
+    "username": "Justalilbrit",
+    "poopsCount": 1122,
+    "pinColor": "#ff00dc",
+    "createdAt": "2023-03-28T22:06:17.645Z",
+    "poops": [
+      {
+        "id": 252916761,
+        "createdAt": "2026-11-03T18:19:27.351Z",
+        "latitude": 39.35698554562009,
+        "longitude": -84.37644135206939,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff00dc",
+        "place": "",
+        "raing": 3,
+        "userId": 5269879
+      }
+    ]
+  },
+  {
+    "id": 7028599,
+    "username": "alyssalove44",
+    "poopsCount": 1636,
+    "pinColor": "#ff00db",
+    "createdAt": "2025-07-26T00:36:23.692Z",
+    "poops": [
+      {
+        "id": 252911511,
+        "createdAt": "2026-11-03T17:13:18.558Z",
+        "latitude": 40.10608805704554,
+        "longitude": -76.07379343360662,
+        "isAirplane": 0,
+        "note": "I just woke up from a nap to take a poo",
+        "pinColor": "#ff00db",
+        "place": "home",
+        "raing": 4,
+        "userId": 7028599
+      },
+      {
+        "id": 252898983,
+        "createdAt": "2026-11-03T14:50:30.859Z",
+        "latitude": 40.1061298562533,
+        "longitude": -76.07381757348776,
+        "isAirplane": 0,
+        "note": "I’m pooping at home & I had a good breakfast with grandpa, we had ihop! it was so good.",
+        "pinColor": "#ff00db",
+        "place": "home",
+        "raing": 4,
+        "userId": 7028599
+      }
+    ]
+  },
+  {
+    "id": 5676409,
+    "username": "martihuana",
+    "poopsCount": 2077,
+    "pinColor": "#ff008d",
+    "createdAt": "2024-01-01T18:41:38.943Z",
+    "poops": [
+      {
+        "id": 252894943,
+        "createdAt": "2026-11-03T14:05:14.350Z",
+        "latitude": 60.38809677640952,
+        "longitude": 5.31843289732933,
+        "isAirplane": 0,
+        "note": "nesveikas kiekis šikalo (ar pakalbėsim apie tai, kad aš endelig skriveoppgave siunčiu lauk? jei reiks taisyt VERKSIU)",
+        "pinColor": "#ff008d",
+        "place": "Sydneshaugen skole",
+        "raing": 5,
+        "userId": 5676409
+      }
+    ]
+  },
+  {
+    "id": 502652,
+    "username": "Giovanni Poopoo-Peepee",
+    "poopsCount": 1004,
+    "pinColor": "#00fcff",
+    "createdAt": "2020-02-25T19:04:36.284Z",
+    "poops": [
+      {
+        "id": 252901435,
+        "createdAt": "2026-11-03T15:18:49.881Z",
+        "latitude": 38.75964304213232,
+        "longitude": -93.7425734102726,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00fcff",
+        "place": "",
+        "raing": 4,
+        "userId": 502652
+      }
+    ]
+  },
+  {
+    "id": 5070206,
+    "username": "hollyymaeee",
+    "poopsCount": 324,
+    "pinColor": "#d81b60",
+    "createdAt": "2022-11-27T18:10:39.556Z",
+    "poops": [
+      {
+        "id": 252923743,
+        "createdAt": "2026-11-03T19:50:14.730Z",
+        "latitude": 51.32031472054699,
+        "longitude": -0.5593384802341461,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#d81b60",
+        "place": "primetime",
+        "raing": 4,
+        "userId": 5070206
+      }
+    ]
+  },
+  {
+    "id": 4585855,
+    "username": "masterpoop182",
+    "poopsCount": 4120,
+    "pinColor": null,
+    "createdAt": "2022-01-07T14:11:21.250Z",
+    "poops": [
+      {
+        "id": 252924289,
+        "createdAt": "2026-11-03T19:57:50.075Z",
+        "latitude": 51.609089404146,
+        "longitude": 5.148209519684315,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "thuis",
+        "raing": null,
+        "userId": 4585855
+      }
+    ]
+  },
+  {
+    "id": 6695807,
+    "username": "A$AP P00P",
+    "poopsCount": 207,
+    "pinColor": "#43a047",
+    "createdAt": "2025-01-08T22:19:10.295Z",
+    "poops": [
+      {
+        "id": 252920794,
+        "createdAt": "2026-11-03T19:10:08.021Z",
+        "latitude": 48.69491776878127,
+        "longitude": 6.194185709917693,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#43a047",
+        "place": "Appart’",
+        "raing": 3,
+        "userId": 6695807
+      }
+    ]
+  },
+  {
+    "id": 5812097,
+    "username": "Dendro2000",
+    "poopsCount": 1637,
+    "pinColor": "#ffc800",
+    "createdAt": "2024-03-12T23:58:50.815Z",
+    "poops": [
+      {
+        "id": 252919716,
+        "createdAt": "2026-11-03T18:32:00.000Z",
+        "latitude": 36.22963200967806,
+        "longitude": -115.261006616056,
+        "isAirplane": 0,
+        "note": "Soft.  A bit bloody.",
+        "pinColor": "#ffc800",
+        "place": "HQ",
+        "raing": 3,
+        "userId": 5812097
+      }
+    ]
+  },
+  {
+    "id": 7327620,
+    "username": "JanaBanana67",
+    "poopsCount": 64,
+    "pinColor": null,
+    "createdAt": "2026-08-05T20:19:29.127Z",
+    "poops": [
+      {
+        "id": 252924237,
+        "createdAt": "2026-11-03T19:56:47.315Z",
+        "latitude": 39.88558241643674,
+        "longitude": -75.30808914452791,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "work",
+        "raing": null,
+        "userId": 7327620
+      }
+    ]
+  },
+  {
+    "id": 5136776,
+    "username": "Jmacballer",
+    "poopsCount": 2622,
+    "pinColor": null,
+    "createdAt": "2023-01-03T05:03:18.173Z",
+    "poops": [
+      {
+        "id": 252924329,
+        "createdAt": "2026-11-03T19:58:23.292Z",
+        "latitude": 40.20257034010631,
+        "longitude": -85.3959308937192,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 5136776
+      }
+    ]
+  },
+  {
+    "id": 4593546,
+    "username": "j1nlvrr",
+    "poopsCount": 1895,
+    "pinColor": "#7800ff",
+    "createdAt": "2022-01-11T05:54:34.972Z",
+    "poops": [
+      {
+        "id": 252914926,
+        "createdAt": "2026-11-03T17:55:56.618Z",
+        "latitude": 33.95399514291369,
+        "longitude": -118.2702962681651,
+        "isAirplane": 0,
+        "note": "Vote blue",
+        "pinColor": "#7800ff",
+        "place": "",
+        "raing": 2,
+        "userId": 4593546
+      }
+    ]
+  },
+  {
+    "id": 5013899,
+    "username": "TheBigBill",
+    "poopsCount": 2509,
+    "pinColor": null,
+    "createdAt": "2022-10-08T05:51:51.972Z",
+    "poops": [
+      {
+        "id": 252924400,
+        "createdAt": "2026-11-03T19:58:53.793Z",
+        "latitude": 42.73319046898948,
+        "longitude": -90.4963293671608,
+        "isAirplane": 0,
+        "note": "I feel like I haven’t taken a shit in a while",
+        "pinColor": null,
+        "place": "morrow hall",
+        "raing": 4,
+        "userId": 5013899
+      }
+    ]
+  },
+  {
+    "id": 3836818,
+    "username": "poopoo:)!",
+    "poopsCount": 125,
+    "pinColor": "#ff00fb",
+    "createdAt": "2021-06-19T02:05:47.659Z",
+    "poops": [
+      {
+        "id": 252906412,
+        "createdAt": "2026-11-03T16:13:41.114Z",
+        "latitude": 41.74343481053916,
+        "longitude": -74.09037329256535,
+        "isAirplane": 0,
+        "note": "sharted in my pants tbh",
+        "pinColor": "#ff00fb",
+        "place": "home",
+        "raing": null,
+        "userId": 3836818
+      }
+    ]
+  },
+  {
+    "id": 6244756,
+    "username": "CacaTrip",
+    "poopsCount": 285,
+    "pinColor": "#ff007d",
+    "createdAt": "2024-10-05T09:00:04.683Z",
+    "poops": [
+      {
+        "id": 252914444,
+        "createdAt": "2026-11-03T17:48:41.173Z",
+        "latitude": 45.46853267418005,
+        "longitude": 3.264600746333599,
+        "isAirplane": 0,
+        "note": "Une douleur intestinale lourde, une poussée du \"BB\" en plusieurs étapes, une retombée bruyante et un ruissellement d'urine pour clôturer le bazar",
+        "pinColor": "#ff007d",
+        "place": "BSC",
+        "raing": 3,
+        "userId": 6244756
+      }
+    ]
+  },
+  {
+    "id": 5740438,
+    "username": "jayakpoops",
+    "poopsCount": 1035,
+    "pinColor": "#78ff00",
+    "createdAt": "2024-01-29T17:13:48.972Z",
+    "poops": [
+      {
+        "id": 252915194,
+        "createdAt": "2026-11-03T17:59:55.564Z",
+        "latitude": 29.64178177720379,
+        "longitude": -82.33893916010857,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#78ff00",
+        "place": "208",
+        "raing": null,
+        "userId": 5740438
+      }
+    ]
+  },
+  {
+    "id": 1987483,
+    "username": "R3M1N3M",
+    "poopsCount": 1001,
+    "pinColor": "#00f8ff",
+    "createdAt": "2021-02-23T20:16:08.160Z",
+    "poops": [
+      {
+        "id": 252922229,
+        "createdAt": "2026-11-03T19:29:45.257Z",
+        "latitude": 36.35705316836417,
+        "longitude": -94.27698411047459,
+        "isAirplane": 0,
+        "note": "phat ass dump",
+        "pinColor": "#00f8ff",
+        "place": "poop HQ",
+        "raing": 3,
+        "userId": 1987483
+      }
+    ]
+  },
+  {
+    "id": 3271068,
+    "username": "shittinwithcol",
+    "poopsCount": 49,
+    "pinColor": "#ff00a1",
+    "createdAt": "2021-04-21T19:19:40.245Z",
+    "poops": [
+      {
+        "id": 252924206,
+        "createdAt": "2026-11-03T19:56:22.396Z",
+        "latitude": 30.67801159125135,
+        "longitude": -88.08422919362785,
+        "isAirplane": 0,
+        "note": "mexican for lunch. no bueno",
+        "pinColor": "#ff00a1",
+        "place": "da firm",
+        "raing": 1,
+        "userId": 3271068
+      }
+    ]
+  },
+  {
+    "id": 4050332,
+    "username": "sarbeeshits",
+    "poopsCount": 1807,
+    "pinColor": "#ff00e7",
+    "createdAt": "2021-07-26T19:42:46.827Z",
+    "poops": [
+      {
+        "id": 252923668,
+        "createdAt": "2026-11-03T19:49:39.108Z",
+        "latitude": 37.48616065841079,
+        "longitude": -77.61862210929394,
+        "isAirplane": 0,
+        "note": "finally",
+        "pinColor": "#ff00e7",
+        "place": "",
+        "raing": 3,
+        "userId": 4050332
+      }
+    ]
+  },
+  {
+    "id": 5268382,
+    "username": "Emilpoopsherpants",
+    "poopsCount": 2513,
+    "pinColor": null,
+    "createdAt": "2023-03-27T20:16:25.579Z",
+    "poops": [
+      {
+        "id": 252924452,
+        "createdAt": "2026-11-03T20:00:00.552Z",
+        "latitude": 40.20218725401682,
+        "longitude": -76.74302369356155,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 5268382
+      }
+    ]
+  },
+  {
+    "id": 23966,
+    "username": "emipoo",
+    "poopsCount": 4966,
+    "pinColor": "#ff00d4",
+    "createdAt": "2019-02-06T18:34:21.707Z",
+    "poops": [
+      {
+        "id": 252918091,
+        "createdAt": "2026-11-03T18:36:12.765Z",
+        "latitude": 34.06533626082553,
+        "longitude": -118.3754831179977,
+        "isAirplane": 0,
+        "note": "poopy",
+        "pinColor": "#ff00d4",
+        "place": "office",
+        "raing": 3,
+        "userId": 23966
+      },
+      {
+        "id": 252906347,
+        "createdAt": "2026-11-03T16:12:58.256Z",
+        "latitude": 34.0144379998686,
+        "longitude": -118.4663459658623,
+        "isAirplane": 0,
+        "note": "poopy",
+        "pinColor": "#ff00d4",
+        "place": "mom house",
+        "raing": 3,
+        "userId": 23966
+      }
+    ]
+  },
+  {
+    "id": 6871458,
+    "username": "hmahxyhme",
+    "poopsCount": 1150,
+    "pinColor": "#212121",
+    "createdAt": "2025-03-30T20:13:10.639Z",
+    "poops": [
+      {
+        "id": 252894911,
+        "createdAt": "2026-11-03T14:05:48.756Z",
+        "latitude": 50.40503343760674,
+        "longitude": 4.448675662279129,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#212121",
+        "place": "",
+        "raing": null,
+        "userId": 6871458
+      }
+    ]
+  },
+  {
+    "id": 6522791,
+    "username": "Poop Taicho",
+    "poopsCount": 1555,
+    "pinColor": null,
+    "createdAt": "2024-12-07T14:51:35.015Z",
+    "poops": [
+      {
+        "id": 252924388,
+        "createdAt": "2026-11-03T19:59:03.678Z",
+        "latitude": 50.68844239748516,
+        "longitude": 4.202214516699314,
+        "isAirplane": 0,
+        "note": "gastro ?",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 6522791
+      }
+    ]
+  },
+  {
+    "id": 7334823,
+    "username": "mrspoopybutthole12345",
+    "poopsCount": 110,
+    "pinColor": "#d81b60",
+    "createdAt": "2026-08-16T21:43:36.621Z",
+    "poops": [
+      {
+        "id": 252921369,
+        "createdAt": "2026-11-03T19:18:37.426Z",
+        "latitude": 42.42821366463391,
+        "longitude": -123.0363962799311,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": null,
+        "userId": 7334823
+      },
+      {
+        "id": 252900502,
+        "createdAt": "2026-11-03T15:08:22.592Z",
+        "latitude": 42.42833443236202,
+        "longitude": -123.036472722888,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#d81b60",
+        "place": "",
+        "raing": null,
+        "userId": 7334823
+      }
+    ]
+  },
+  {
+    "id": 7358889,
+    "username": "StevoStinkers",
+    "poopsCount": 26,
+    "pinColor": null,
+    "createdAt": "2026-09-24T05:43:19.550Z",
+    "poops": [
+      {
+        "id": 252924148,
+        "createdAt": "2026-11-03T19:56:01.779Z",
+        "latitude": -43.50705433141245,
+        "longitude": 172.6647936925292,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "work",
+        "raing": 5,
+        "userId": 7358889
+      }
+    ]
+  },
+  {
+    "id": 5457320,
+    "username": "2stool4school",
+    "poopsCount": 806,
+    "pinColor": "#43a047",
+    "createdAt": "2023-09-10T19:52:02.477Z",
+    "poops": [
+      {
+        "id": 252903475,
+        "createdAt": "2026-11-03T15:37:31.053Z",
+        "latitude": 41.63762607717204,
+        "longitude": -81.36590883135796,
+        "isAirplane": 0,
+        "note": "the stall next to me genuinely has streaks of poop on the toilet, floor, and door…",
+        "pinColor": "#43a047",
+        "place": "lakeland c building first floor",
+        "raing": 1,
+        "userId": 5457320
+      }
+    ]
+  },
+  {
+    "id": 1225643,
+    "username": "spicyxpotato",
+    "poopsCount": 373,
+    "pinColor": "#7000ff",
+    "createdAt": "2020-11-27T00:38:01.833Z",
+    "poops": [
+      {
+        "id": 252905797,
+        "createdAt": "2026-11-03T16:04:21.399Z",
+        "latitude": 45.03529075830377,
+        "longitude": -87.9202027246356,
+        "isAirplane": 0,
+        "note": "poo was falling out of my bum hole",
+        "pinColor": "#7000ff",
+        "place": "",
+        "raing": 1,
+        "userId": 1225643
+      }
+    ]
+  },
+  {
+    "id": 7308203,
+    "username": "1turd2crapthemall",
+    "poopsCount": 227,
+    "pinColor": "#795548",
+    "createdAt": "2026-07-06T21:38:56.466Z",
+    "poops": [
+      {
+        "id": 252900500,
+        "createdAt": "2026-11-03T15:07:53.700Z",
+        "latitude": 39.62586468668714,
+        "longitude": -79.64259691536427,
+        "isAirplane": 0,
+        "note": "I just served up a 20 piece chicken nuggets",
+        "pinColor": "#795548",
+        "place": "my home throne",
+        "raing": 3,
+        "userId": 7308203
+      }
+    ]
+  },
+  {
+    "id": 4118957,
+    "username": "Betteski",
+    "poopsCount": 2832,
+    "pinColor": "#1300ff",
+    "createdAt": "2021-08-08T20:56:51.276Z",
+    "poops": [
+      {
+        "id": 252912656,
+        "createdAt": "2026-11-03T17:27:59.079Z",
+        "latitude": 55.71246847496661,
+        "longitude": 9.435396753251554,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#1300ff",
+        "place": "",
+        "raing": 3,
+        "userId": 4118957
+      }
+    ]
+  },
+  {
+    "id": 7480750,
+    "username": "kapoen_fientje",
+    "poopsCount": 3,
+    "pinColor": null,
+    "createdAt": "2026-10-26T11:19:30.072Z",
+    "poops": [
+      {
+        "id": 252924265,
+        "createdAt": "2026-11-03T19:57:00.964Z",
+        "latitude": 51.02819060000141,
+        "longitude": 4.103403948247433,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 2,
+        "userId": 7480750
+      }
+    ]
+  },
+  {
+    "id": 4763567,
+    "username": "no.1dookie",
+    "poopsCount": 436,
+    "pinColor": "#a700ff",
+    "createdAt": "2022-04-09T20:09:44.901Z",
+    "poops": [
+      {
+        "id": 252909123,
+        "createdAt": "2026-11-03T16:44:22.966Z",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "isAirplane": 0,
+        "note": "good morning",
+        "pinColor": "#a700ff",
+        "place": "home",
+        "raing": 2,
+        "userId": 4763567
+      }
+    ]
+  },
+  {
+    "id": 7211437,
+    "username": "Poo-finity and Beyond",
+    "poopsCount": 400,
+    "pinColor": "#00fff2",
+    "createdAt": "2026-02-11T00:42:19.900Z",
+    "poops": [
+      {
+        "id": 252896293,
+        "createdAt": "2026-11-03T14:20:27.343Z",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00fff2",
+        "place": "",
+        "raing": 1,
+        "userId": 7211437
+      }
+    ]
+  },
+  {
+    "id": 3645869,
+    "username": "IPewpPixelz",
+    "poopsCount": 1608,
+    "pinColor": "#02ff00",
+    "createdAt": "2021-05-11T04:46:10.083Z",
+    "poops": [
+      {
+        "id": 252894955,
+        "createdAt": "2026-11-03T13:49:28.436Z",
+        "latitude": 45.37244261820328,
+        "longitude": -75.65134450793266,
+        "isAirplane": 0,
+        "note": "Uh oh, stinky",
+        "pinColor": "#02ff00",
+        "place": "",
+        "raing": 2,
+        "userId": 3645869
+      }
+    ]
+  },
+  {
+    "id": 7185331,
+    "username": "sigma poep koning fender",
+    "poopsCount": 303,
+    "pinColor": null,
+    "createdAt": "2026-01-12T17:34:16.321Z",
+    "poops": [
+      {
+        "id": 252924214,
+        "createdAt": "2026-11-03T19:56:19.159Z",
+        "latitude": 51.7008726982648,
+        "longitude": 5.142429359257221,
+        "isAirplane": 0,
+        "note": "lekker genieten van dit warme mooie drolletje",
+        "pinColor": null,
+        "place": "bij mala thuis",
+        "raing": 4,
+        "userId": 7185331
+      }
+    ]
+  },
+  {
+    "id": 1255859,
+    "username": "catshitterlee",
+    "poopsCount": 2232,
+    "pinColor": "#ff00a3",
+    "createdAt": "2020-12-09T10:28:02.443Z",
+    "poops": [
+      {
+        "id": 252920075,
+        "createdAt": "2026-11-03T19:01:09.842Z",
+        "latitude": 35.92146625302511,
+        "longitude": -84.09299522638321,
+        "isAirplane": 0,
+        "note": "working like 10 hours OT today to pay for my car bruh",
+        "pinColor": "#ff00a3",
+        "place": "the buck",
+        "raing": 3,
+        "userId": 1255859
+      }
+    ]
+  },
+  {
+    "id": 5337526,
+    "username": "yassqueen190",
+    "poopsCount": 1206,
+    "pinColor": "#26ff00",
+    "createdAt": "2023-05-29T02:13:35.485Z",
+    "poops": [
+      {
+        "id": 252901913,
+        "createdAt": "2026-11-03T15:23:22.979Z",
+        "latitude": 42.03587346852026,
+        "longitude": -93.614235073328,
+        "isAirplane": 0,
+        "note": "315th poop of 2026",
+        "pinColor": "#26ff00",
+        "place": "home",
+        "raing": 4,
+        "userId": 5337526
+      }
+    ]
+  },
+  {
+    "id": 1437629,
+    "username": "angeliina",
+    "poopsCount": 1908,
+    "pinColor": "#ff004a",
+    "createdAt": "2021-02-19T22:43:37.339Z",
+    "poops": [
+      {
+        "id": 252905666,
+        "createdAt": "2026-11-03T16:05:26.440Z",
+        "latitude": 40.76927672675257,
+        "longitude": -74.30034566670656,
+        "isAirplane": 0,
+        "note": "this poop was not solid.",
+        "pinColor": "#ff004a",
+        "place": "work",
+        "raing": 3,
+        "userId": 1437629
+      },
+      {
+        "id": 252901756,
+        "createdAt": "2026-11-03T15:21:59.587Z",
+        "latitude": 40.76927672675257,
+        "longitude": -74.30034566670656,
+        "isAirplane": 0,
+        "note": "i’d say good to be back in this office but i like the privacy of the dozen of bathrooms to choose from in the other",
+        "pinColor": "#ff004a",
+        "place": "work",
+        "raing": 4,
+        "userId": 1437629
+      }
+    ]
+  },
+  {
+    "id": 6099391,
+    "username": "besabe",
+    "poopsCount": 579,
+    "pinColor": "#d81b60",
+    "createdAt": "2024-08-09T06:48:17.206Z",
+    "poops": [
+      {
+        "id": 252910361,
+        "createdAt": "2026-11-03T16:59:36.796Z",
+        "latitude": 40.87562931718931,
+        "longitude": 29.26697898656129,
+        "isAirplane": 0,
+        "note": "bugun hic gelmicek sandkm",
+        "pinColor": "#d81b60",
+        "place": "YENI EV",
+        "raing": 3,
+        "userId": 6099391
+      }
+    ]
+  },
+  {
+    "id": 7470530,
+    "username": "drizziecakes",
+    "poopsCount": 22,
+    "pinColor": "#FB8C00",
+    "createdAt": "2026-10-11T22:54:02.172Z",
+    "poops": [
+      {
+        "id": 252912175,
+        "createdAt": "2026-11-03T17:21:07.959Z",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#FB8C00",
+        "place": "",
+        "raing": 4,
+        "userId": 7470530
+      }
+    ]
+  },
+  {
+    "id": 6411203,
+    "username": "michfarda",
+    "poopsCount": 1162,
+    "pinColor": "#795548",
+    "createdAt": "2024-11-10T22:07:14.825Z",
+    "poops": [
+      {
+        "id": 252899699,
+        "createdAt": "2026-11-03T14:59:22.217Z",
+        "latitude": 38.5430261016445,
+        "longitude": -121.7777140438557,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#795548",
+        "place": "the apoopment",
+        "raing": null,
+        "userId": 6411203
+      }
+    ]
+  },
+  {
+    "id": 1652676,
+    "username": "✨bootyholeburnout✨",
+    "poopsCount": 1537,
+    "pinColor": "#00c7ff",
+    "createdAt": "2021-02-21T03:52:38.227Z",
+    "poops": [
+      {
+        "id": 252916086,
+        "createdAt": "2026-11-03T18:11:21.210Z",
+        "latitude": 45.54714973321082,
+        "longitude": -94.19450283050536,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00c7ff",
+        "place": "miller auto",
+        "raing": 3,
+        "userId": 1652676
+      }
+    ]
+  },
+  {
+    "id": 5653966,
+    "username": "sunshineszone",
+    "poopsCount": 1201,
+    "pinColor": null,
+    "createdAt": "2023-12-20T15:38:29.671Z",
+    "poops": [
+      {
+        "id": 252924411,
+        "createdAt": "2026-11-03T19:59:30.051Z",
+        "latitude": 30.38838150437376,
+        "longitude": -91.17749311029911,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 5653966
+      }
+    ]
+  },
+  {
+    "id": 6792144,
+    "username": "davidc2006",
+    "poopsCount": 369,
+    "pinColor": null,
+    "createdAt": "2025-02-18T18:20:35.958Z",
+    "poops": [
+      {
+        "id": 252924276,
+        "createdAt": "2026-11-03T19:57:47.093Z",
+        "latitude": 41.61712973794329,
+        "longitude": -83.66849340498447,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 6792144
+      }
+    ]
+  },
+  {
+    "id": 6201298,
+    "username": "SunnyPoopBoy",
+    "poopsCount": 1263,
+    "pinColor": "#ff00ea",
+    "createdAt": "2024-09-13T11:13:58.784Z",
+    "poops": [
+      {
+        "id": 252915351,
+        "createdAt": "2026-11-03T18:02:08.939Z",
+        "latitude": 46.07304966703794,
+        "longitude": 6.381078846752644,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ff00ea",
+        "place": "hôtel b&b",
+        "raing": 4,
+        "userId": 6201298
+      }
+    ]
+  },
+  {
+    "id": 7306196,
+    "username": "Master Shit 73",
+    "poopsCount": 248,
+    "pinColor": "#0004ff",
+    "createdAt": "2026-07-03T05:19:54.809Z",
+    "poops": [
+      {
+        "id": 252924366,
+        "createdAt": "2026-11-03T19:58:07.031Z",
+        "latitude": 45.50700270314367,
+        "longitude": 5.997265465557575,
+        "isAirplane": 0,
+        "note": "mmhh",
+        "pinColor": "#0004ff",
+        "place": "Home shit 1",
+        "raing": 2,
+        "userId": 7306196
+      }
+    ]
+  },
+  {
+    "id": 5558741,
+    "username": "Mando Helldiver",
+    "poopsCount": 96,
+    "pinColor": "#e94335",
+    "createdAt": "2023-11-21T17:22:20.869Z",
+    "poops": [
+      {
+        "id": 252920865,
+        "createdAt": "2026-11-03T19:11:31.270Z",
+        "latitude": 45.874645254687,
+        "longitude": -68.4162600338459,
+        "isAirplane": 0,
+        "note": "the burrito from Chipotle killing me",
+        "pinColor": "#e94335",
+        "place": "Irving Gas station 🚉",
+        "raing": 5,
+        "userId": 5558741
+      },
+      {
+        "id": 252912646,
+        "createdAt": "2026-11-03T17:23:28.807Z",
+        "latitude": 44.81311387991114,
+        "longitude": -68.76884277909994,
+        "isAirplane": 0,
+        "note": "door code to get in is 1812",
+        "pinColor": "#e94335",
+        "place": "twin pines extraction center",
+        "raing": 5,
+        "userId": 5558741
+      }
+    ]
+  },
+  {
+    "id": 5641684,
+    "username": "POOP_ST4R",
+    "poopsCount": 1694,
+    "pinColor": "#ffa200",
+    "createdAt": "2023-12-14T01:37:23.251Z",
+    "poops": [
+      {
+        "id": 252920067,
+        "createdAt": "2026-11-03T19:01:29.314Z",
+        "latitude": 39.95010244716465,
+        "longitude": -75.1676584035158,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#ffa200",
+        "place": "",
+        "raing": 5,
+        "userId": 5641684
+      }
+    ]
+  },
+  {
+    "id": 1273307,
+    "username": "galaxyencrypted",
+    "poopsCount": 2808,
+    "pinColor": "#00aaff",
+    "createdAt": "2020-12-17T21:55:19.013Z",
+    "poops": [
+      {
+        "id": 252922206,
+        "createdAt": "2026-11-03T19:28:52.071Z",
+        "latitude": 39.87145704344839,
+        "longitude": -104.8955274000764,
+        "isAirplane": 0,
+        "note": "straight liquid",
+        "pinColor": "#00aaff",
+        "place": "cummins",
+        "raing": 1,
+        "userId": 1273307
+      }
+    ]
+  },
+  {
+    "id": 3761116,
+    "username": "madison_the_crapper",
+    "poopsCount": 1212,
+    "pinColor": null,
+    "createdAt": "2021-05-30T22:19:44.701Z",
+    "poops": [
+      {
+        "id": 252924180,
+        "createdAt": "2026-11-03T19:56:22.443Z",
+        "latitude": 36.00509904229951,
+        "longitude": -87.39762559533119,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": null,
+        "userId": 3761116
+      }
+    ]
+  },
+  {
+    "id": 7354333,
+    "username": "Annalux",
+    "poopsCount": 64,
+    "pinColor": null,
+    "createdAt": "2026-09-17T13:44:28.968Z",
+    "poops": [
+      {
+        "id": 252924259,
+        "createdAt": "2026-11-03T19:57:11.210Z",
+        "latitude": 45.37078352091595,
+        "longitude": 9.697301387786865,
+        "isAirplane": 0,
+        "note": "una miseriaccia di faticaccia",
+        "pinColor": null,
+        "place": "casa",
+        "raing": 1,
+        "userId": 7354333
+      }
+    ]
+  },
+  {
+    "id": 6735838,
+    "username": "noryyjj",
+    "poopsCount": 684,
+    "pinColor": null,
+    "createdAt": "2025-01-20T14:54:37.781Z",
+    "poops": [
+      {
+        "id": 252924240,
+        "createdAt": "2026-11-03T19:57:00.549Z",
+        "latitude": 62.79461758676656,
+        "longitude": 22.85406868904829,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 1,
+        "userId": 6735838
+      }
+    ]
+  },
+  {
+    "id": 3794395,
+    "username": "sMoLbOoTyBoStOn",
+    "poopsCount": 329,
+    "pinColor": "#ffff00",
+    "createdAt": "2021-06-07T14:31:06.460Z",
+    "poops": [
+      {
+        "id": 252919096,
+        "createdAt": "2026-11-03T18:48:03.868Z",
+        "latitude": 33.5409727011086,
+        "longitude": -88.87652155011892,
+        "isAirplane": 0,
+        "note": "just scrolled for awhile",
+        "pinColor": "#ffff00",
+        "place": "roadhouse",
+        "raing": 4,
+        "userId": 3794395
+      }
+    ]
+  },
+  {
+    "id": 2349024,
+    "username": "kdog4131",
+    "poopsCount": 1745,
+    "pinColor": "#0009ff",
+    "createdAt": "2021-03-01T01:37:30.253Z",
+    "poops": [
+      {
+        "id": 252902814,
+        "createdAt": "2026-11-03T15:32:17.893Z",
+        "latitude": 12.53164387185984,
+        "longitude": -70.05532141774893,
+        "isAirplane": 0,
+        "note": "Last one before we leave Bowl filler Great Aroma",
+        "pinColor": "#0009ff",
+        "place": "Tamarijn room 2109",
+        "raing": 5,
+        "userId": 2349024
+      }
+    ]
+  },
+  {
+    "id": 6751713,
+    "username": "ellarose05x",
+    "poopsCount": 1438,
+    "pinColor": null,
+    "createdAt": "2025-01-27T01:37:20.454Z",
+    "poops": [
+      {
+        "id": 252924200,
+        "createdAt": "2026-11-03T19:56:46.917Z",
+        "latitude": 52.41417988354953,
+        "longitude": -1.559976451098919,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": null,
+        "place": "",
+        "raing": 5,
+        "userId": 6751713
+      }
+    ]
+  },
+  {
+    "id": 5981663,
+    "username": "CaptainKangapoo",
+    "poopsCount": 1052,
+    "pinColor": "#00dbff",
+    "createdAt": "2024-07-07T03:52:31.585Z",
+    "poops": [
+      {
+        "id": 252897590,
+        "createdAt": "2026-11-03T14:35:16.406Z",
+        "latitude": 42.60364777953018,
+        "longitude": -87.85991135984659,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#00dbff",
+        "place": "",
+        "raing": 4,
+        "userId": 5981663
+      }
+    ]
+  },
+  {
+    "id": 5918691,
+    "username": "Zhang 422",
+    "poopsCount": 797,
+    "pinColor": "#00deff",
+    "createdAt": "2024-05-30T04:57:45.004Z",
+    "poops": [
+      {
+        "id": 252900549,
+        "createdAt": "2026-11-03T15:09:05.804Z",
+        "latitude": 23.47747639758814,
+        "longitude": 120.446801930666,
+        "isAirplane": 0,
+        "note": "櫻桃便",
+        "pinColor": "#00deff",
+        "place": "",
+        "raing": 4,
+        "userId": 5918691
+      }
+    ]
+  },
+  {
+    "id": 889321,
+    "username": "Poopmaster O",
+    "poopsCount": 367,
+    "pinColor": "#6e00ff",
+    "createdAt": "2020-06-24T11:40:10.203Z",
+    "poops": [
+      {
+        "id": 252903960,
+        "createdAt": "2026-11-03T15:44:51.199Z",
+        "latitude": 40.64579733005202,
+        "longitude": -73.77413146197796,
+        "isAirplane": 0,
+        "note": "",
+        "pinColor": "#6e00ff",
+        "place": "",
+        "raing": 5,
+        "userId": 889321
+      }
+    ]
+  },
+  {
+    "id": 1284587,
+    "username": "rissaonmars",
+    "poopsCount": 3844,
+    "pinColor": "#aaff00",
+    "createdAt": "2020-12-26T22:33:40.942Z",
+    "poops": [
+      {
+        "id": 252906001,
+        "createdAt": "2026-11-03T16:08:42.655Z",
+        "latitude": 40.51651626489027,
+        "longitude": -80.21989546716213,
+        "isAirplane": 0,
+        "note": "pumpkin poop sticker i miss you babygirl",
+        "pinColor": "#aaff00",
+        "place": "work",
+        "raing": 3,
+        "userId": 1284587
+      }
+    ]
+  },
+  {
+    "id": 3278828,
+    "username": "KingPoopShootNToot",
+    "poopsCount": 5414,
+    "pinColor": "#0025ff",
+    "createdAt": "2021-04-22T05:12:10.026Z",
+    "poops": [
+      {
+        "id": 252900848,
+        "createdAt": "2026-11-03T15:08:19.825Z",
+        "latitude": 44.83144310467016,
+        "longitude": -0.7033184543251991,
+        "isAirplane": 0,
+        "note": "Mushy poop. Post Croc-monsieur and cinnamon roll. Near my gate n waiting forever feels like. Freezing cold over here by gate 1. WTF",
+        "pinColor": "#0025ff",
+        "place": "Airport poop",
+        "raing": 3,
+        "userId": 3278828
+      }
+    ]
+  },
+  {
+    "id": 7352818,
+    "username": "tapeworm_hanging_out_your_butthole",
+    "poopsCount": 123,
+    "pinColor": "#795548",
+    "createdAt": "2026-09-14T21:52:26.479Z",
+    "poops": [
+      {
+        "id": 252906917,
+        "createdAt": "2026-11-03T16:18:12.943Z",
+        "latitude": 33.67899641764926,
+        "longitude": -117.9551910236478,
+        "isAirplane": 0,
+        "note": "I am tired.",
+        "pinColor": "#795548",
+        "place": "Home",
+        "raing": 2,
+        "userId": 7352818
+      }
+    ]
+  },
+  {
+    "id": 7017974,
+    "username": "buttholeblaster2000",
+    "poopsCount": 256,
+    "pinColor": null,
+    "createdAt": "2025-07-17T00:16:39.640Z",
+    "poops": [
+      {
+        "id": 252924385,
+        "createdAt": "2026-11-03T19:58:48.954Z",
+        "latitude": 32.56627239673071,
+        "longitude": -83.65822993218899,
+        "isAirplane": 0,
+        "note": "not bad",
+        "pinColor": null,
+        "place": "",
+        "raing": 4,
+        "userId": 7017974
+      }
+    ]
+  },
+  {
+    "id": 6958073,
+    "username": "#PaintTheTownBrown",
+    "poopsCount": 682,
+    "pinColor": "#6200ff",
+    "createdAt": "2025-05-22T17:17:42.804Z",
+    "poops": [
+      {
+        "id": 252904468,
+        "createdAt": "2026-11-03T15:42:24.521Z",
+        "latitude": 30.45025353730461,
+        "longitude": -84.30324286222458,
+        "isAirplane": 0,
+        "note": "what a doozy. so much poo just exited me. volume was out of control. was surprised the toilet didn’t clog on the first flush. wet mush and lots of push.",
+        "pinColor": "#6200ff",
+        "place": "Industrial Waste Facility",
+        "raing": 2,
+        "userId": 6958073
+      }
+    ]
+  },
+  {
+    "id": 498683,
+    "username": "Dumparoos",
+    "poopsCount": 4495,
+    "pinColor": "#00ff3d",
+    "createdAt": "2020-02-25T02:23:01.713Z",
+    "poops": [
+      {
+        "id": 252910364,
+        "createdAt": "2026-11-03T17:00:01.602Z",
+        "latitude": 43.00095523786695,
+        "longitude": -84.17364455759525,
+        "isAirplane": 0,
+        "note": "Dump!",
+        "pinColor": "#00ff3d",
+        "place": "Home",
+        "raing": 4,
+        "userId": 498683
+      }
+    ]
+  }
+]
