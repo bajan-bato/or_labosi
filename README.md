@@ -87,11 +87,9 @@ Svaki poop preslikan je na najbliže naselje iz GeoNames skupa `cities1000` (nas
 - `LICENSE`: tekst licence
 - `dump.sql`: SQL dump baze podataka (SQLite, UTF-8)
 - `create.sql`: shema baze (SQLite)
-- `schema.json`: JSON Schema (draft-07) za `poopmap.json`
+- `schema.json`: JSON Schema (draft-07) za JSON zapis skupa podataka
 - `scripts/`: skripte za prikupljanje i obradu
 - `web/`: web sučelje (Node.js, Express, EJS, PostgreSQL)
-
-Lokalno (izvan gita) nastaju i `poops100k.json`, `users100k.json` i `progress.txt` (sirovi podaci s API-ja), `db.db`, `geodata/` te `exports/`.
 
 ## Web sučelje
 Sučelje čita podatke iz PostgreSQL baze zadane varijablom `DATABASE_URL` u `.env`.
@@ -109,15 +107,15 @@ npm start
 ## Postupak izgradnje
 Skripte se pokreću iz mape `scripts/`. Za dohvat s API-ja potrebna je datoteka `.env` u korijenu s varijablama `POOPMAP_USERNAME` i `POOPMAP_PASSWORD`.
 
-1. `fetch_poops.py`: dohvaća poopse po ID-u (silazno) u `poops100k.json` i nastavlja od `progress.txt`
-2. `fetch_users.py`: dohvaća profile svih jedinstvenih korisnika u `users100k.json`
-3. `load_db.py`: gradi `db.db` po `create.sql` i puni je iz JSON datoteka (čuva postojeća preslikavanja lokacija)
-4. `geocode.py`: preuzima GeoNames podatke u `geodata/` i puni `town`, `country` i `poop.townId` izravno u bazi
-5. `export.py`: iz baze generira `dump.sql` i datoteke u `exports/`:
-   - `poopmap.json`: svi podaci u jednom JSON-u. Korisnik sadrži listu poopsa (1:N), a svaki poop ugniježđeno sadrži svoje naselje i državu.
-   - `poopmap.csv`: svi podaci u jednom CSV-u, jedan redak po poopu spojen s korisnikom, naseljem i državom
-   - `countries.json` / `countries.csv`: država sadrži listu naselja (1:N), uz broj poopsa i korisnika te broj poopsa na milijun stanovnika
-6. `load_pg.py`: prebacuje `db.db` u PostgreSQL (`DATABASE_URL` u `.env`) i stvara pogled `poopmap_flat` za web sučelje
+1. `fetch_poops.py`: dohvaća poopse s API-ja po ID-u (silazno) i može nastaviti gdje je stao
+2. `fetch_users.py`: dohvaća profile svih jedinstvenih korisnika tih poopsa
+3. `load_db.py`: gradi SQLite bazu po `create.sql` i puni je dohvaćenim podacima
+4. `geocode.py`: preuzima GeoNames podatke i puni `town`, `country` i `poop.townId` izravno u bazi
+5. `export.py`: iz baze generira `dump.sql` te CSV i JSON zapise skupa podataka:
+   - JSON: korisnik sadrži listu poopsa (1:N), a svaki poop ugniježđeno sadrži svoje naselje i državu
+   - CSV: jedan redak po poopu, spojen s korisnikom, naseljem i državom
+   - države s listom naselja (1:N) u CSV i JSON obliku, uz broj poopsa i korisnika te broj poopsa na milijun stanovnika
+6. `load_pg.py`: prebacuje bazu u PostgreSQL (`DATABASE_URL` u `.env`) i stvara pogled `poopmap_flat` za web sučelje
 
 ## Izvor podataka
 Podaci o lokacijama (naselja i države) preuzeti su s [GeoNames](https://www.geonames.org/) pod licencom CC BY 4.0.

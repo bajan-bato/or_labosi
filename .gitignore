@@ -3,7 +3,6 @@
 *.tmp
 __pycache__/
 exports/
-geodata/
 poops100k.json
 users100k.json
 progress.txt
