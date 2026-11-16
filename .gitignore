@@ -1,6 +1,9 @@
-create.sql
-db.db
-device.txt
-poops.json
-users.json
-*.py
+.env
+*.db
+*.tmp
+__pycache__/
+exports/
+geodata/
+poops100k.json
+users100k.json
+progress.txt
