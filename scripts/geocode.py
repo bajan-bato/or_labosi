@@ -9,8 +9,9 @@ Za svaki poop traži se najbliže naselje (KD-stablo na jediničnoj sferi, tj. p
 udaljenost po velikom krugu). Ne preslikavaju se:
   - skrivene lokacije (0, 0)
   - poopsi u zrakoplovu
-Poopsi dalje od MAX_KM od bilo kojeg naselja (more, divljina) dobivaju town
-id=0 "wilderness" (bez države).
+Poopsi dalje od MAX_KM od bilo kojeg naselja (divljina, more) dobivaju naselje
+"wilderness" države kojoj pripada najbliže naselje (po jedno za svaku državu,
+s negativnim ID-em).
 U bazu se upisuju samo naselja/države koje stvarno imaju poopse.
 
 Uporaba: python geocode.py [--max-km 10]
@@ -37,9 +38,13 @@ CONTINENTS = {"AF": "Africa", "AS": "Asia", "EU": "Europe", "NA": "North America
               "OC": "Oceania", "SA": "South America", "AN": "Antarctica"}
 # četvrti, povijesna/napuštena/uništena naselja nisu "town"
 SKIP_FEATURES = {"PPLX", "PPLH", "PPLQ", "PPLW", "PPLCH"}
-# poopsi dalje od MAX_KM od svakog naselja dobivaju posebno "naselje" bez države
-WILDERNESS_ID = 0
+# poopsi dalje od MAX_KM od svakog naselja dobivaju "wilderness" naselje svoje države
 WILDERNESS_NAME = "wilderness"
+
+
+def wilderness_id(cc):
+    """Negativan ID iz koda države (US -> -2119), ne sudara se s GeoNames ID-evima."""
+    return -((ord(cc[0]) - 64) * 100 + (ord(cc[1]) - 64))
 
 
 def download():
@@ -100,16 +105,22 @@ def main():
 
     chord, idx = tree.query(unit_xyz(lat, lon))
     dist_km = 2 * EARTH_KM * np.arcsin(np.clip(chord / 2, 0, 1))
-    far = dist_km > args.max_km
-    ok = ~hidden & ~airplane & ~far
+    located = ~hidden & ~airplane
+    far = located & (dist_km > args.max_km)
+    ok = located & ~far
 
-    used = sorted(set(idx[ok].tolist()))
     town_rows = []
-    for i in used:
+    for i in sorted(set(idx[ok].tolist())):
         r = towns[i]
         cc = r[8]
         town_rows.append((int(r[0]), r[1], admin1.get(f"{cc}.{r[10]}"), cc,
                           float(r[4]), float(r[5]), int(r[14]) if r[14] else None))
+    # wilderness: država najbližeg naselja, jedan "wilderness" redak po državi
+    wild_cc = [towns[i][8] for i in idx[far]]
+    for cc in sorted(set(wild_cc)):
+        town_rows.append((wilderness_id(cc), WILDERNESS_NAME, None, cc, None, None, None))
+    town_ids = [int(towns[i][0]) for i in idx[ok]] + [wilderness_id(cc) for cc in wild_cc]
+    poop_ids = [int(p) for p in ids[ok]] + [int(p) for p in ids[far]]
     used_cc = {t[3] for t in town_rows}
     missing = used_cc - countries.keys()  # npr. Kosovo (XK) nije uvijek u countryInfo
     for cc in missing:
@@ -122,18 +133,12 @@ def main():
         con.executemany("INSERT INTO country VALUES (:code, :name, :continent, :population, :areaKm2)",
                         [countries[cc] for cc in sorted(used_cc)])
         con.executemany("INSERT INTO town VALUES (?,?,?,?,?,?,?)", town_rows)
-        con.executemany("UPDATE poop SET townId = ? WHERE id = ?",
-                        [(int(towns[i][0]), int(pid)) for pid, i in zip(ids[ok], idx[ok])])
-        wild = far & ~hidden & ~airplane
-        if wild.any():
-            con.execute("INSERT INTO town (id, name) VALUES (?, ?)", (WILDERNESS_ID, WILDERNESS_NAME))
-            con.executemany("UPDATE poop SET townId = ? WHERE id = ?",
-                            [(WILDERNESS_ID, int(pid)) for pid in ids[wild]])
+        con.executemany("UPDATE poop SET townId = ? WHERE id = ?", list(zip(town_ids, poop_ids)))
 
     fk = con.execute("PRAGMA foreign_key_check").fetchall()
-    print(f"Preslikano: {ok.sum()} / {len(poops)} poopsa -> {len(town_rows)} naselja u {len(used_cc)} država")
-    print(f"Nepreslikano: skrivena lokacija {hidden.sum()}, zrakoplov {(airplane & ~hidden).sum()} "
-          f"| wilderness (dalje od {args.max_km:g} km): {(far & ~hidden & ~airplane).sum()}")
+    print(f"Preslikano: {len(poop_ids)} / {len(poops)} poopsa -> {len(town_rows)} naselja u {len(used_cc)} država")
+    print(f"Od toga wilderness (dalje od {args.max_km:g} km): {far.sum()} u {len(set(wild_cc))} država")
+    print(f"Bez lokacije: skrivena {hidden.sum()}, zrakoplov {(airplane & ~hidden).sum()}")
     print(f"Udaljenost do naselja (km): medijan {np.median(dist_km[ok]):.1f}, "
           f"95. percentil {np.percentile(dist_km[ok], 95):.1f} | FK greške: {len(fk)}")
     if missing:

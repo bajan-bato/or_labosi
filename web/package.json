@@ -1,0 +1,20 @@
+{
+  "name": "poopmap-web",
+  "version": "1.0.0",
+  "description": "Web sučelje za Poopmap Global Dataset",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Toni Bajan",
+  "license": "CC-BY-4.0",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "ejs": "^7.0.2",
+    "express": "^5.3.0",
+    "marked": "^18.2.0",
+    "pg": "^8.23.1"
+  }
+}

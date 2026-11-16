@@ -1,0 +1,321 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://raw.githubusercontent.com/bajan-bato/or_labosi/main/schema.json",
+  "type": "array",
+  "title": "Poopmap Global Dataset",
+  "description": "Korisnici platforme Poopmap s njihovim poopsima; svaki poop sadrži najbliže naselje i državu.",
+  "items": {
+    "type": "object",
+    "title": "Korisnik",
+    "description": "Korisnik platforme Poopmap sa svim svojim poopsima.",
+    "required": [
+      "id",
+      "username",
+      "poops"
+    ],
+    "properties": {
+      "id": {
+        "type": "integer",
+        "title": "ID korisnika",
+        "description": "Jedinstveni identifikator korisnika."
+      },
+      "username": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "title": "Korisničko ime",
+        "description": "Korisničko ime na platformi (null za obrisane račune)."
+      },
+      "poopsCount": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "title": "Broj poopsa",
+        "description": "Ukupan broj poopsa korisnika na platformi."
+      },
+      "pinColor": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "title": "Boja pina",
+        "description": "Hex kod boje pina korisnika."
+      },
+      "createdAt": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "title": "Datum kreiranja",
+        "description": "Datum i vrijeme kreiranja računa (ISO 8601).",
+        "format": "date-time"
+      },
+      "badgesCount": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "title": "Broj znački",
+        "description": "Broj osvojenih znački."
+      },
+      "followersCount": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "title": "Broj pratitelja",
+        "description": "Broj pratitelja."
+      },
+      "followingsCount": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "title": "Broj praćenih",
+        "description": "Broj korisnika koje korisnik prati."
+      },
+      "countryCount": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "title": "Broj država",
+        "description": "Broj država u kojima je korisnik zabilježio poop."
+      },
+      "isPro": {
+        "type": [
+          "boolean",
+          "null"
+        ],
+        "title": "Pro",
+        "description": "Ima li korisnik Pro pretplatu."
+      },
+      "isPrivate": {
+        "type": [
+          "boolean",
+          "null"
+        ],
+        "title": "Privatan profil",
+        "description": "Je li profil privatan."
+      },
+      "poopsPerDay": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "title": "Poopsa po danu",
+        "description": "Prosječan broj poopsa po danu."
+      },
+      "poops": {
+        "type": "array",
+        "title": "Poopsi",
+        "description": "Lista poopsa korisnika.",
+        "items": {
+          "type": "object",
+          "title": "Poop",
+          "description": "Jedan zabilježeni poop korisnika.",
+          "required": [
+            "id",
+            "createdAt",
+            "latitude",
+            "longitude",
+            "isAirplane",
+            "town"
+          ],
+          "properties": {
+            "id": {
+              "type": "integer",
+              "title": "ID poopa",
+              "description": "Jedinstveni identifikator poopa."
+            },
+            "createdAt": {
+              "type": "string",
+              "title": "Vrijeme nastanka",
+              "description": "Datum i vrijeme nastanka poopa (ISO 8601).",
+              "format": "date-time"
+            },
+            "latitude": {
+              "type": "number",
+              "title": "Geografska širina",
+              "description": "Geografska širina lokacije (0 ako je skrivena).",
+              "minimum": -90,
+              "maximum": 90
+            },
+            "longitude": {
+              "type": "number",
+              "title": "Geografska dužina",
+              "description": "Geografska dužina lokacije (0 ako je skrivena).",
+              "minimum": -180,
+              "maximum": 180
+            },
+            "isAirplane": {
+              "type": "boolean",
+              "title": "U zrakoplovu",
+              "description": "Je li poop nastao u zrakoplovu."
+            },
+            "note": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "title": "Bilješka",
+              "description": "Kratka tekstualna bilješka korisnika."
+            },
+            "pinColor": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "title": "Boja pina",
+              "description": "Hex kod boje pina za ovaj poop."
+            },
+            "place": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "title": "Mjesto",
+              "description": "Naziv mjesta koji je upisao korisnik."
+            },
+            "rating": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "title": "Ocjena",
+              "description": "Ocjena poopa.",
+              "minimum": 0,
+              "maximum": 5
+            },
+            "aroma": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "title": "Aroma",
+              "description": "Intenzitet mirisa.",
+              "enum": [
+                "low_key",
+                "noticeable",
+                "clear_the_room",
+                null
+              ]
+            },
+            "town": {
+              "type": [
+                "object",
+                "null"
+              ],
+              "title": "Naselje",
+              "description": "Najbliže naselje poopu (GeoNames). Naselje 'wilderness' (negativan ID) označava poop udaljen više od 10 km od svakog naselja, u državi najbližeg naselja; null znači skrivenu lokaciju ili poop u zrakoplovu.",
+              "required": [
+                "id",
+                "name",
+                "country"
+              ],
+              "properties": {
+                "id": {
+                  "type": "integer",
+                  "title": "ID naselja",
+                  "description": "GeoNames identifikator naselja (negativan za wilderness)."
+                },
+                "name": {
+                  "type": "string",
+                  "title": "Naziv naselja",
+                  "description": "Naziv naselja."
+                },
+                "admin1": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "title": "Regija",
+                  "description": "Regija / savezna država / županija."
+                },
+                "latitude": {
+                  "type": [
+                    "number",
+                    "null"
+                  ],
+                  "title": "Geografska širina",
+                  "description": "Geografska širina naselja.",
+                  "minimum": -90,
+                  "maximum": 90
+                },
+                "longitude": {
+                  "type": [
+                    "number",
+                    "null"
+                  ],
+                  "title": "Geografska dužina",
+                  "description": "Geografska dužina naselja.",
+                  "minimum": -180,
+                  "maximum": 180
+                },
+                "population": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ],
+                  "title": "Broj stanovnika",
+                  "description": "Broj stanovnika naselja."
+                },
+                "country": {
+                  "type": [
+                    "object",
+                    "null"
+                  ],
+                  "title": "Država",
+                  "description": "Država kojoj pripada naselje.",
+                  "required": [
+                    "code",
+                    "name"
+                  ],
+                  "properties": {
+                    "code": {
+                      "type": "string",
+                      "title": "Kod države",
+                      "description": "ISO 3166-1 alpha-2 kod države.",
+                      "pattern": "^[A-Z]{2}$"
+                    },
+                    "name": {
+                      "type": "string",
+                      "title": "Naziv države",
+                      "description": "Naziv države na engleskom."
+                    },
+                    "continent": {
+                      "type": [
+                        "string",
+                        "null"
+                      ],
+                      "title": "Kontinent",
+                      "description": "Kontinent na kojem se država nalazi."
+                    },
+                    "population": {
+                      "type": [
+                        "integer",
+                        "null"
+                      ],
+                      "title": "Broj stanovnika",
+                      "description": "Broj stanovnika države."
+                    },
+                    "areaKm2": {
+                      "type": [
+                        "number",
+                        "null"
+                      ],
+                      "title": "Površina",
+                      "description": "Površina države u km²."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

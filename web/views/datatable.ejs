@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablica podataka · <%= meta.title %></title>
+    <meta name="description" content="<%= meta.description %>">
+    <meta name="author" content="<%= meta.author %>">
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header class="topbar">
+        <a class="brand" href="/">Poopmap Global Dataset</a>
+        <nav>
+            <a href="/">Početna</a>
+            <a href="/datatable" class="active">Tablica podataka</a>
+        </nav>
+    </header>
+
+    <main class="page wide">
+        <form id="filter" class="card filter">
+            <div class="field grow">
+                <label for="q">Polje za pretragu</label>
+                <input class="input" type="text" id="q" name="q" placeholder="Unesite vrijednost">
+                <small class="muted">Po ovoj vrijednosti pretražuju se podaci. Prazno polje vraća sve podatke.</small>
+            </div>
+            <div class="field">
+                <label for="field">Atribut</label>
+                <select class="input" id="field" name="field">
+                    <option value="all">Sva polja (wildcard)</option>
+                    <% let group = null; columns.forEach(([col, label, g]) => { %>
+                        <% if (g !== group) { if (group) { %></optgroup><% } group = g; %><optgroup label="<%= g %>"><% } %>
+                        <option value="<%= col %>"><%= g %>: <%= label %></option>
+                    <% }) %></optgroup>
+                </select>
+            </div>
+            <div class="field actions">
+                <button class="button" type="submit">Pretraži</button>
+                <button class="button secondary" type="button" id="reset">Poništi</button>
+            </div>
+        </form>
+
+        <div class="toolbar">
+            <span id="status" class="muted">Učitavanje…</span>
+            <div class="toolbar-right">
+                <span class="muted">Preuzmi prikaz:</span>
+                <a class="button small" id="dl-csv" href="/api/poops/download?format=csv">CSV</a>
+                <a class="button small" id="dl-json" href="/api/poops/download?format=json">JSON</a>
+            </div>
+        </div>
+
+        <div class="table-wrap">
+            <table id="table">
+                <thead>
+                    <tr class="groups">
+                        <% const groups = []; columns.forEach(([, , g]) => {
+                             if (!groups.length || groups[groups.length - 1].name !== g) groups.push({ name: g, span: 0 });
+                             groups[groups.length - 1].span++; }); %>
+                        <% groups.forEach(g => { %><th colspan="<%= g.span %>"><%= g.name %></th><% }) %>
+                    </tr>
+                    <tr class="cols">
+                        <% columns.forEach(([col, label]) => { %>
+                            <th data-col="<%= col %>" title="<%= col %>"><%= label %></th>
+                        <% }) %>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+
+        <div class="pager">
+            <button class="button small secondary" id="prev">‹ Prethodna</button>
+            <span id="pageinfo" class="muted"></span>
+            <button class="button small secondary" id="next">Sljedeća ›</button>
+            <select class="input small" id="limit">
+                <option>25</option><option selected>50</option><option>100</option><option>250</option>
+            </select>
+        </div>
+    </main>
+
+    <script>const COLUMNS = <%- JSON.stringify(columns.map(c => c[0])) %>;</script>
+    <script src="/datatable.js"></script>
+</body>
+</html>

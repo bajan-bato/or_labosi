@@ -80,17 +80,31 @@ Ovaj skup podataka licenciran je pod **Creative Commons Attribution 4.0 Internat
 - **`country` (1) : (N) `town`**, preko `town.countryCode` → `country.code`
 
 ## Preslikavanje lokacija
-Svaki poop preslikan je na najbliže naselje iz GeoNames skupa `cities1000` (naselja s barem 1000 stanovnika, bez gradskih četvrti), a naselje na svoju državu. Udaljenost se računa po velikom krugu. Poopsi udaljeniji od 10 km od svakog naselja (more, divljina) preslikani su na posebno naselje `id = 0`, `name = "wilderness"`, koje nema državu. Bez naselja (`townId = NULL`) ostaju samo poopsi sa skrivenom lokacijom (0, 0) i poopsi u zrakoplovu. U bazi su samo naselja i države koje imaju barem jedan poop.
+Svaki poop preslikan je na najbliže naselje iz GeoNames skupa `cities1000` (naselja s barem 1000 stanovnika, bez gradskih četvrti), a naselje na svoju državu. Udaljenost se računa po velikom krugu. Poopsi udaljeniji od 10 km od svakog naselja (more, divljina) preslikani su na naselje `name = "wilderness"` države kojoj pripada najbliže naselje. Svaka država ima svoje "wilderness" naselje s negativnim ID-em izvedenim iz koda države (npr. `US` → `-2119`), pa i ti poopsi imaju državu i kontinent. Bez naselja (`townId = NULL`) ostaju samo poopsi sa skrivenom lokacijom (0, 0) i poopsi u zrakoplovu. U bazi su samo naselja i države koje imaju barem jedan poop.
 
 ## Datoteke u repozitoriju
 - `README.md`: ova datoteka
 - `LICENSE`: tekst licence
 - `dump.sql`: SQL dump baze podataka (SQLite, UTF-8)
-- `create.sql`: shema baze
-- `poops100k.json`: sirovi poopsi prikupljeni s API-ja
-- `users100k.json`: sirovi profili korisnika tih poopsa
-- `progress.txt`: zadnji ID do kojeg je stigao dohvat poopsa
+- `create.sql`: shema baze (SQLite)
+- `schema.json`: JSON Schema (draft-07) za `poopmap.json`
 - `scripts/`: skripte za prikupljanje i obradu
+- `web/`: web sučelje (Node.js, Express, EJS, PostgreSQL)
+
+Lokalno (izvan gita) nastaju i `poops100k.json`, `users100k.json` i `progress.txt` (sirovi podaci s API-ja), `db.db`, `geodata/` te `exports/`.
+
+## Web sučelje
+Sučelje čita podatke iz PostgreSQL baze zadane varijablom `DATABASE_URL` u `.env`.
+- `/`: opis skupa podataka (ovaj README) i poveznice za preuzimanje cijelog skupa u CSV i JSON obliku te `schema.json`
+- `/datatable`: tablični prikaz svih podataka s obrascem za filtriranje (po svim poljima ili po odabranom atributu), straničenjem, sortiranjem i preuzimanjem trenutno filtriranih podataka u CSV i JSON obliku
+
+Podaci se dohvaćaju asinkrono (`fetch`) s REST krajnjih točaka `/api/poops` i `/api/poops/download?format=csv|json`. Filtriranje se radi na poslužitelju SQL upitom nad materijaliziranim pogledom `poopmap_flat`.
+
+```bash
+cd web
+npm install
+npm start
+```
 
 ## Postupak izgradnje
 Skripte se pokreću iz mape `scripts/`. Za dohvat s API-ja potrebna je datoteka `.env` u korijenu s varijablama `POOPMAP_USERNAME` i `POOPMAP_PASSWORD`.
@@ -103,6 +117,7 @@ Skripte se pokreću iz mape `scripts/`. Za dohvat s API-ja potrebna je datoteka 
    - `poopmap.json`: svi podaci u jednom JSON-u. Korisnik sadrži listu poopsa (1:N), a svaki poop ugniježđeno sadrži svoje naselje i državu.
    - `poopmap.csv`: svi podaci u jednom CSV-u, jedan redak po poopu spojen s korisnikom, naseljem i državom
    - `countries.json` / `countries.csv`: država sadrži listu naselja (1:N), uz broj poopsa i korisnika te broj poopsa na milijun stanovnika
+6. `load_pg.py`: prebacuje `db.db` u PostgreSQL (`DATABASE_URL` u `.env`) i stvara pogled `poopmap_flat` za web sučelje
 
 ## Izvor podataka
 Podaci o lokacijama (naselja i države) preuzeti su s [GeoNames](https://www.geonames.org/) pod licencom CC BY 4.0.
